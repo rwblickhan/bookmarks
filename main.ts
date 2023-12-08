@@ -5,6 +5,7 @@ import * as Pagefind from "npm:pagefind";
 import { DB } from "https://deno.land/x/sqlite@v3.8/mod.ts";
 
 const CACHE = "cache";
+const BANNED_HOSTS = ["vitalik.ca", "archive.ph", "historic-cities.huji.ac.il"];
 
 export interface Link {
   url: string;
@@ -19,6 +20,12 @@ interface Article {
 
 interface FetchError {
   message: string;
+  url: string;
+  time_ms: number;
+}
+
+interface IndexErrors {
+  errors: string[];
   url: string;
 }
 
@@ -52,6 +59,7 @@ if (import.meta.main) {
   }
 
   const fetchErrors: FetchError[] = [];
+  const indexErrors: IndexErrors[] = [];
 
   for (const link of links) {
     progress.render(completed);
@@ -74,11 +82,20 @@ if (import.meta.main) {
       };
     } else {
       let data;
+      const start = performance.now();
       try {
+        if (BANNED_HOSTS.includes(new URL(link.url).host)) {
+          continue;
+        }
         const res = await fetch(link.url);
         data = await res.text();
       } catch (error) {
-        fetchErrors.push({ message: error.message, url: link.url });
+        const end = performance.now();
+        fetchErrors.push({
+          message: error.message,
+          url: link.url,
+          time_ms: end - start,
+        });
         continue;
       }
 
@@ -87,7 +104,7 @@ if (import.meta.main) {
       article = reader.parse() as Article;
     }
 
-    const { errors: indexErrors } = await index.addCustomRecord({
+    const { errors } = await index.addCustomRecord({
       url: link.url,
       content: article?.textContent ?? "",
       meta: {
@@ -100,6 +117,13 @@ if (import.meta.main) {
       },
       language: "en",
     });
+
+    if (errors.length > 0) {
+      indexErrors.push({
+        url: link.url,
+        errors,
+      });
+    }
 
     if (rows.length === 0) {
       db.query(
@@ -118,6 +142,19 @@ if (import.meta.main) {
   const { errors: writeErrors } = await index.writeFiles({
     outputPath: "public/pagefind",
   });
+
+  Deno.writeTextFileSync(
+    "errors.json",
+    JSON.stringify(
+      {
+        fetchErrors,
+        indexErrors,
+        writeErrors: writeErrors.length > 0 ? writeErrors : [],
+      },
+      null,
+      2
+    )
+  );
 
   db.close();
 }

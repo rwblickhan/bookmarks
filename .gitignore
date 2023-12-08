@@ -1,3 +1,4 @@
 goodlinks.json
 **/*.db
 public/pagefind
+errors.json
