@@ -12746,11 +12746,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.internetingishard.com/html-and-css/",
-    "title": "HTML & CSS Is Hard",
-    "source": "Obsidian"
-  },
-  {
     "url": "https://sureshdsk.dev/how-to-push-docker-image-to-github-container-registry",
     "title": "How to Push docker image to Github Container Registry?",
     "source": "Obsidian"
@@ -14066,16 +14061,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/marcusolsson/obsidian-vale",
-    "title": "Obsidian plugin",
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://docs.errata.ai/",
-    "title": "Introduction | docs.errata.ai",
-    "source": "Obsidian"
-  },
-  {
     "url": "https://mobile.twitter.com/rdouglasjohnson/status/1517804673998237697",
     "title": "Robin Johnson on Twitter",
     "source": "Obsidian"
@@ -14818,11 +14803,6 @@
   {
     "url": "https://www.nytimes.com/interactive/2021/11/05/magazine/sushi-us.html",
     "title": "The Untold Story of Sushi in America",
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://swiftontap.com/",
-    "title": "SwiftOnTap",
     "source": "Obsidian"
   },
   {
@@ -18916,11 +18896,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.compose.com/articles/faster-performance-with-unlogged-tables-in-postgresql/",
-    "title": "UNLOGGED tables",
-    "source": "Obsidian"
-  },
-  {
     "url": "https://chat.openai.com/chat",
     "title": "Use stored procedures",
     "source": "Obsidian"
@@ -22068,6 +22043,11 @@
   {
     "url": "https://spotlightjs.com/",
     "title": "Sentry for Development | Spotlight",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://vale.sh",
+    "title": "Vale.sh",
     "source": "Obsidian"
   }
 ]

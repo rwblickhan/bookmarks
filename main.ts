@@ -5,7 +5,14 @@ import * as Pagefind from "npm:pagefind";
 import { DB } from "https://deno.land/x/sqlite@v3.8/mod.ts";
 
 const CACHE = "cache";
-const BANNED_HOSTS = ["vitalik.ca", "archive.ph", "historic-cities.huji.ac.il"];
+const BANNED_HOSTS = [
+  "vitalik.ca",
+  "archive.ph",
+  "historic-cities.huji.ac.il",
+  "society.robinsloan.com",
+  "esoteric.codes",
+  "l.bulletin.com",
+];
 
 export interface Link {
   url: string;
