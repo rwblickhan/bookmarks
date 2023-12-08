@@ -17,6 +17,11 @@ interface Article {
   textContent: string;
 }
 
+interface FetchError {
+  message: string;
+  url: string;
+}
+
 if (import.meta.main) {
   const db = new DB("cache.db");
 
@@ -46,8 +51,12 @@ if (import.meta.main) {
     Deno.exit(1);
   }
 
+  const fetchErrors: FetchError[] = [];
+
   for (const link of links) {
     progress.render(completed);
+
+    // TODO: Only run this query once?
 
     const rows = db.query<[string, string]>(
       `SELECT title, parsed_content FROM ${CACHE} WHERE url = :url`,
@@ -69,9 +78,7 @@ if (import.meta.main) {
         const res = await fetch(link.url);
         data = await res.text();
       } catch (error) {
-        console.error(
-          `Skipping ${link.url} as uncacheable with error ${error}`
-        );
+        fetchErrors.push({ message: error.message, url: link.url });
         continue;
       }
 
@@ -80,7 +87,7 @@ if (import.meta.main) {
       article = reader.parse() as Article;
     }
 
-    await index.addCustomRecord({
+    const { errors: indexErrors } = await index.addCustomRecord({
       url: link.url,
       content: article?.textContent ?? "",
       meta: {
@@ -108,7 +115,7 @@ if (import.meta.main) {
     completed += 1;
   }
 
-  await index.writeFiles({
+  const { errors: writeErrors } = await index.writeFiles({
     outputPath: "public/pagefind",
   });
 
