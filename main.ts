@@ -113,7 +113,7 @@ if (import.meta.main) {
 
     const { errors } = await index.addCustomRecord({
       url: link.url,
-      content: article?.textContent ?? "",
+      content: (article?.title ?? "") + (article?.textContent ?? ""),
       meta: {
         title: article?.title ?? "",
         site: new URL(link.url).hostname,
