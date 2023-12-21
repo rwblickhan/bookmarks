@@ -21,6 +21,33 @@ html {
   background: var(--page-background-light);
 }
 
+h1 {
+  color: white;
+}
+
+h1 a {
+  color: white;
+  text-decoration-line: none;
+}
+
+h1 a:hover {
+  text-decoration-line: underline;
+}
+
+.header {
+  background-color: black;
+  height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  left: 0px;
+  right: 0px;
+}
+
+.header h1 {
+  padding-left: 3rem;
+}
+
 @media (prefers-color-scheme: dark) {
   html {
     background-color: var(--page-background-dark);
