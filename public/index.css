@@ -27,8 +27,8 @@ body {
 
 p {
   color: white;
-  font-size: 2.25rem;
-  line-height: 2.5rem;
+  font-size: 1.875rem;
+  line-height: 2.25rem;
 }
 
 p a {
@@ -50,7 +50,7 @@ p a:hover {
 }
 
 .header p {
-  padding-left: 3rem;
+  padding-left: 1rem;
 }
 
 #search {
@@ -60,5 +60,16 @@ p a:hover {
 @media (prefers-color-scheme: dark) {
   html {
     background-color: var(--page-background-dark);
+  }
+}
+
+@media (min-width: 768px) {
+  p {
+    font-size: 2.25rem;
+    line-height: 2.5rem;
+  }
+
+  .header p {
+    padding-left: 3rem;
   }
 }
