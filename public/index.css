@@ -21,16 +21,22 @@ html {
   background: var(--page-background-light);
 }
 
-h1 {
-  color: white;
+body {
+  margin: 0;
 }
 
-h1 a {
+p {
+  color: white;
+  font-size: 2.25rem;
+  line-height: 2.5rem;
+}
+
+p a {
   color: white;
   text-decoration-line: none;
 }
 
-h1 a:hover {
+p a:hover {
   text-decoration-line: underline;
 }
 
@@ -43,8 +49,12 @@ h1 a:hover {
   width: 100vw;
 }
 
-.header h1 {
+.header p {
   padding-left: 3rem;
+}
+
+#search {
+  margin: 2rem;
 }
 
 @media (prefers-color-scheme: dark) {
