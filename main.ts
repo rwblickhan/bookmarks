@@ -30,6 +30,7 @@ interface FetchError {
   message: string;
   url: string;
   time_ms: number;
+  source: LinkSource;
 }
 
 interface IndexErrors {
@@ -104,6 +105,7 @@ if (import.meta.main) {
           message: error.message,
           url: link.url,
           time_ms: end - start,
+          source: link.source,
         });
         continue;
       }
