@@ -14,10 +14,12 @@ const BANNED_HOSTS = [
   "l.bulletin.com",
 ];
 
+export type LinkSource = "GoodLinks" | "Obsidian";
+
 export interface Link {
   url: string;
   title: string;
-  source: "GoodLinks" | "Obsidian";
+  source: LinkSource;
 }
 
 interface Article {
@@ -34,6 +36,7 @@ interface FetchError {
 interface IndexErrors {
   errors: string[];
   url: string;
+  source: LinkSource;
 }
 
 if (import.meta.main) {
@@ -129,6 +132,7 @@ if (import.meta.main) {
       indexErrors.push({
         url: link.url,
         errors,
+        source: link.source,
       });
     }
 
