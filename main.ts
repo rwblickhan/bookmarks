@@ -9,7 +9,6 @@ const BANNED_HOSTS = [
   "vitalik.ca",
   "archive.ph",
   "historic-cities.huji.ac.il",
-  "society.robinsloan.com",
   "esoteric.codes",
   "l.bulletin.com",
 ];
