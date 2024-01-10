@@ -20886,11 +20886,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/AstroNvim/AstroNvim",
-    "title": "AstroNvim/AstroNvim: AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins",
-    "source": "Obsidian"
-  },
-  {
     "url": "https://shoelace.style/",
     "title": "Shoelace: A forward-thinking library of web components.",
     "source": "Obsidian"
@@ -22723,6 +22718,435 @@
   {
     "url": "https://www.hillelwayne.com/post/what-we-can-learn/",
     "title": "conferences",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://kottke.org/21/11/how-people-live-in-the-coldest-place-on-earth",
+    "title": "How People Live in the Coldest Place on Earth",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=o29E2Nq9Sgo",
+    "title": "PtP 19: Dogs in Ancient Athens with Colin Whiting",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.mid-day.com/sunday-mid-day/article/yaar-parivaar-23318250",
+    "title": "Yaar parivaar",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.lrb.co.uk/the-paper/v46/n01/erin-l.-thompson/even-the-eyelashes",
+    "title": "Erin L. Thompson · Even the Eyelashes: Inca Mummies",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://robinrendle.com/notes/22-panels/",
+    "title": "Robin Rendle — 22 panels",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://matklad.github.io/2023/12/31/O(1)-build-file.html",
+    "title": "O(1) Build File",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://maggieappleton.com/ambient-copresence",
+    "title": "Ambient Co-presence",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://szymonkaliski.com/newsletter/2024-01-01-q4-2023/",
+    "title": "Q4 2023",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://simonwillison.net/2023/Dec/31/ai-in-2023/",
+    "title": "Stuff we figured out about AI in 2023",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=7DKv5H5Frt0",
+    "title": "After ten years, it's time to stop making videos.",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.reddit.com/r/AskHistorians/comments/18vvyqh/our_20_year_rule_you_can_now_ask_questions_about/",
+    "title": "r/AskHistorians - Our 20 Year Rule: You can now ask questions about 2004!",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://rybicki.io/blog/2023/12/23/promises-arent-monads.html?ck_subscriber_id=2185177551",
+    "title": "Why JavaScript promises aren’t technically monads",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.vipshek.com/blog/sabbatical",
+    "title": "Reflections on a Sabbatical",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://mattlakeman.org/2024/01/01/notes-on-the-ivory-coast/",
+    "title": "Notes on the Ivory Coast",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://pxlnv.com/blog/how-to-be-optimistic/",
+    "title": "How to Be Optimistic About Technology Now",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://danluu.com/seo-spam/",
+    "title": "How bad are search results? Let's compare Google, Bing, Marginalia, Kagi, Mwmbl, and ChatGPT",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.indiegamereadingclub.com/indie-game-reading-club/games-that-broke-my-brain/",
+    "title": "Games That Broke My Brain - The Indie Game Reading Club",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.complete-review.com/reviews/uspre19/alcott_long_fatal.htm",
+    "title": "A Long Fatal Love Chase",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "http://antirez.com/news/140",
+    "title": "LLMs and Programming in the first days of 2024",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.ojp.gov/ncjrs/virtual-library/abstracts/canadas-toxic-bus-new-challenges-law-enforcement-post-911-worldmass",
+    "title": "Canada's \"Toxic Bus\": The New Challenges for Law Enforcement in the Post-9/11 World/Mass Psychogenic Illness",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/the-real-value-of-a-catholic-modernity/",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://til.simonwillison.net/github-actions/daily-planner",
+    "title": "GitHub Actions, Issues and Pages to build a daily planner",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://kottke.org/24/01/cathedral-mountain-moon",
+    "title": "Cathedral, Mountain, Moon",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Jan/2/escalating-streaks/",
+    "title": "Tom Scott, and the formidable power of escalating streaks",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.adamchalmers.com/value-of-free-users/",
+    "title": "Free users are incredible",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.atvbt.com/80-20-cooking/",
+    "title": "80/20 Cooking",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://jakelazaroff.com/words/the-website-vs-web-app-dichotomy-doesnt-exist/",
+    "title": "The Website vs. Web App Dichotomy Doesn't Exist | jakelazaroff.com",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.sfchronicle.com/food/restaurants/article/basque-restaurants-18525564.php?sid=638c256380383cf2790df08a&ss=P&st_rid=78c4e0e7-55f1-45ff-918e-16df92e506dd",
+    "title": "Basque food in SF faces uncertain future after Piperade closes",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://onethingnewsletter.substack.com/p/notes-on-format",
+    "title": "(18) ⬜ Notes on format - One Thing",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://onethingnewsletter.substack.com/p/studio-ghibli-vibes-vs-history",
+    "title": "(18) ⬜ Studio Ghibli vibes vs. history - One Thing",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://matklad.github.io/2024/01/03/of-rats-and-ratchets.html",
+    "title": "Of Rats and Ratchets",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://alexcabal.com/posts/standard-ebooks-and-classic-web-tech",
+    "title": "How Standard Ebooks serves millions of requests per month with a 2GB VPS; or, a paean to the classic web",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://allenc.com/2024/01/the-stasis-of-e-ink/",
+    "title": "The Stasis of E-Ink • in|retrospect",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://dynomight.substack.com/p/shorts-4?publication_id=327510&post_id=140355317&isFreemail=true&r=p8s",
+    "title": "(18) Shorts for January - DYNOMIGHT INTERNET NEWSLETTER",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://newsletter.pragmaticengineer.com/p/the-pulse-will-us-companies-hire?publication_id=458709&post_id=140360075&isFreemail=true&r=p8s",
+    "title": "The Pulse: Will US companies hire fewer engineers due to Section 174?",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://tessa.fyi/zachary-jacobi/a-year-without-you",
+    "title": "A Year Without You",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://adamtooze.substack.com/p/chartbook-258-war-peace-and-the-return?nthPub=3141",
+    "title": "(18) Chartbook 258 War, peace and the return of history in 2023",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://mattlakeman.org/2021/07/27/shadow-of-the-sun/",
+    "title": "Shadow of the Sun",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://jvns.ca/blog/2024/01/05/do-we-think-of-git-commits-as-diffs--snapshots--or-histories/",
+    "title": "Do we think of git commits as diffs, snapshots, and/or histories?",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://papereditor.app/dev",
+    "title": "9 years of Apple text editor solo dev",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://rossmcmillan.co.uk/blog/why-we-got-rid-of-sentry",
+    "title": "Why we got rid of Sentry",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://jon.bo/posts/new-tab/",
+    "title": "in search of a new tab",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://threadreaderapp.com/thread/1742957031353466903.html",
+    "title": "Thread by @BretDevereaux on Thread Reader App",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://nicolasbouliane.com/blog/duty-to-document",
+    "title": "The duty to document - Nicolas Bouliane",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://borretti.me/article/thoughts-llm-agents",
+    "title": "Thoughts on LLM Agents",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://balioc.tumblr.com/post/738708085697347584/holiday-engineering-what-not-to-do",
+    "title": "Holiday Engineering: What Not to Do",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.htmhell.dev/adventcalendar/2023/1/",
+    "title": "The UX of HTML - HTMHell",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://janefriedman.com/researching-the-right-literary-agents-for-you/",
+    "title": "Researching the Right Literary Agents for You | Jane Friedman",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://interconnected.org/home/2024/01/05/triangles",
+    "title": "The unimagined orange and new frontiers in management consultancy",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://birtles.blog/2024/01/06/weird-things-engineers-believe-about-development/",
+    "title": "Weird things engineers believe about Web development",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Jan/7/call-it-ai/",
+    "title": "It’s OK to call it Artificial Intelligence",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Jan/7/call-it-ai/#argument-against",
+    "title": "It’s OK to call it Artificial Intelligence",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.joshbarro.com/p/universities-are-not-on-the-level",
+    "title": "Universities Are Not on the Level - by Josh Barro",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://katedowninglaw.com/2024/01/06/the-new-york-times-launches-a-very-strong-case-against-microsoft-and-openai/",
+    "title": "The New York Times Launches a Very Strong Case Against Microsoft and OpenAI",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://acoup.blog/2024/01/05/collections-the-journey-of-the-roman-gladius-and-other-swords/",
+    "title": "Collections: The Journey of the Roman Gladius and Other Swords",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://revista.drclas.harvard.edu/centering-the-shipibo-konibo-in-tar-todd-field-2022/",
+    "title": "Centering the Shipibo-Konibo in Tár (Todd Field, 2022)",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://slate.com/culture/2022/12/tar-cate-blanchett-movie-ending-explained-analyzed.html",
+    "title": "It’s the Most Acclaimed Movie of the Year. So Why Are Critics Talking About It All Wrong?",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://balioc.tumblr.com/post/738896977506484224/so-yeah-i-dont-like-halloween-reasons",
+    "title": "The Baliocene Apocrypha",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://balioc.tumblr.com/post/738888742068273152/holiday-engineering-the-most-wonderful-time-of",
+    "title": "Holiday Engineering: The Most Wonderful Time of the Year",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://alexcabal.com/why-i-release-things-into-the-public-domain",
+    "title": "Why I release things into the public domain",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://zenhabits.net/uncopyright/",
+    "title": "Uncopyright : zen habits",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://tompepinsky.com/2024/01/08/political-institutions-do-not-constrain-americas-political-order-is-about-power-and-interests/",
+    "title": "Political Institutions Do Not Constrain: America’s Political Order is about Power and Interests",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/beyond-the-sct/",
+    "title": "beyond the SCT – The Homebound Symphony",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://gilest.org/indie-easy.html",
+    "title": "Make the indie web easier",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://maggieappleton.com/speculative-events",
+    "title": "Speculative Calendar Events",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.cs.umd.edu/~ben/goldenrules.html",
+    "title": "Ben Shneiderman",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.archive.org/2024/01/05/mickeys-bad-day-or-the-ecosystem/",
+    "title": "Mickey’s Bad Day, or, The Ecosystem",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://newsletter.pnote.eu/p/simple-lasts-longer",
+    "title": "Simple lasts longer: making a map stateful using scotch tape and Web Storage API",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "http://wingolog.org/archives/2024/01/08/missing-the-point-of-webassembly",
+    "title": "missing the point of webassembly — wingolog",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.futilitycloset.com/2024/01/09/looking-around/",
+    "title": "Looking Around - Futility Closet",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://gilest.org/indie-easy-again.html",
+    "title": "More on the easier indie web",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.jim-nielsen.com/2024/humans-all-the-way-down/",
+    "title": "It’s Humans All the Way Down",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Jan/9/what-i-should-have-said-about-ai/",
+    "title": "What I should have said about the term Artificial Intelligence",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.quantamagazine.org/magical-error-correction-scheme-proved-inherently-inefficient-20240109/",
+    "title": "‘Magical’ Error Correction Scheme Proved Inherently Inefficient | Quanta Magazine",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.atvbt.com/email/194046fc-e7c5-42d5-a06c-c704e3edcc75/",
+    "title": "Displacement Value",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://capitalgains.thediff.co/p/features",
+    "title": "The Opportunity Cost of Features",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/bertolucci/",
+    "title": "Bertolucci – The Homebound Symphony",
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://doc.dxuuu.xyz/prr/index.html",
+    "title": "Introduction - prr",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.sfchronicle.com/projects/guides/things-to-do-sf-2024/",
+    "title": "Here are 24 things to do in San Francisco in 2024",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/GuntherRademacher/rr",
+    "title": "GuntherRademacher/rr: RR - Railroad Diagram Generator",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/bellingcat/wayback-google-analytics",
+    "title": "bellingcat/wayback-google-analytics: A lightweight tool for scraping current and historic Google Analytics data",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.atvbt.com/80-20-cooking/?ref=atoms-vs-bits-newsletter",
+    "title": "80/20 Cooking",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://ahastack.dev/",
+    "title": "The AHA Stack | AHA",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://languagelog.ldc.upenn.edu/nll/?p=62094",
+    "title": "Language Log » Tea in Glasgow",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://adamj.eu/tech/2024/01/03/postgresql-full-text-search-websearch/",
+    "title": "PostgreSQL: Full text search with the “websearch” syntax - Adam Johnson",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://querytracker.net/clients/",
+    "title": "Literary Agent Client List - QueryTracker",
     "source": "Obsidian"
   }
 ]
