@@ -14626,11 +14626,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://contexts.co/",
-    "title": "Contexts - Radically simpler & faster window switcher for Mac",
-    "source": "Obsidian"
-  },
-  {
     "url": "https://typewind.vercel.app",
     "title": "Typewind – Typesafe Tailwind",
     "source": "Obsidian"
@@ -24009,6 +24004,241 @@
   {
     "url": "https://github.com/yantra-core/Labyrinthos.js",
     "title": "yantra-core/Labyrinthos.js: A JavaScript procedural generator for Mazes, Terrains, and Biomes. Designed for game developers and professional hobbyists, Labyrinthos.js offers a very simple-to-use API for crafting complex, customizable landscapes",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://kerkour.com/sqlite-for-servers",
+    "title": "Optimizing SQLite for servers",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://ntietz.com/blog/great-management-and-leadership-books-for-the-technical-track/",
+    "title": "Great management and leadership books for the technical track | nicole@web",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/astral-sh/uv",
+    "title": "astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://learnxinyminutes.com/",
+    "title": "Learn X in Y Minutes: Scenic Programming Language Tours",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://blog.gitbutler.com/git-tips-2-new-stuff-in-git/",
+    "title": "Git Tips 2: New Stuff in Git",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://juxtacode.app/",
+    "title": "JuxtaCode",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.wired.com/story/own-future-artificial-intelligence-read-shakespeare/",
+    "title": "\"Tech and the liberal arts have always been at war\"",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://adactio.com/journal/20911",
+    "title": "Adactio: Journal—PageSpeed Insights bookmarklet",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/wxt-dev/wxt",
+    "title": "wxt-dev/wxt: ⚡ Next-gen Web Extension Framework",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://simonwillison.net/2020/Oct/9/git-scraping/",
+    "title": "Git scraping: track changes over time by scraping to a Git repository",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://simonwillison.net/2021/Dec/7/git-history/",
+    "title": "git-history: a tool for analyzing scraped data collected using Git and SQLite",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://cohere.com/research/aya",
+    "title": "Aya | Cohere For AI",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://mrmr.io/til/prettier",
+    "title": "Why is Prettier rock solid?",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://lobste.rs/s/aevptj/why_is_prettier_rock_solid",
+    "title": "lobste.rs comments",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/Textualize/toolong",
+    "title": "Textualize/toolong: A terminal application to view, tail, merge, and search log files (plus JSONL).",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://arxiv.org/pdf/2307.15043.pdf",
+    "title": "The actual paper",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/",
+    "title": "wddbfs – Mount a sqlite database as a filesystem",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Feb/18/wddbfs/",
+    "title": "Simon Willison's notes",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://blog.cassidoo.co/post/sort-git-branch/",
+    "title": "Sorting Git branches",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://teachtogether.tech/en/index.html",
+    "title": "Teaching Tech Together",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://katemckean.substack.com/p/how-to-blurb?r=p8s",
+    "title": "(22) How To Blurb - by Kate McKean - Agents and Books",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://page-speed.dev/",
+    "title": "page-speed.dev",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.volunteeramnestyday.net/",
+    "title": "Volunteer Responsibility Amnesty Day",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://expo.dev/",
+    "title": "Expo",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://arrowandboard.com/collections/leather_apple_watch_bands/products/leather_apple_watch_band-porter-midnight-black?variant=30261781790816",
+    "title": "Porter from Arrow & Board",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://jvns.ca/blog/2024/02/16/popular-git-config-options/",
+    "title": "Popular git config options",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/tpope/vim-surround",
+    "title": "vim-surround",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/replit/codemirror-vim",
+    "title": "codemirror-vim",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/VSCodeVim/Vim/blob/master/src/actions/plugins/surround.ts",
+    "title": "VSCodeVim's implementation",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API",
+    "title": "IndexedDB",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://robwalker.substack.com/p/icebreaker-special",
+    "title": "https://robwalker.substack.com/p/icebreaker-special",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://nuejs.org/blog/introducing-glow/",
+    "title": "Introducing Glow",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://line-of-action.com/practice-tools/figure-drawing",
+    "title": "Practice Tools for Artists - Line of Action",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Kola_Superdeep_Borehole?ref=thewhippet.org",
+    "title": "Kola Superdeep Borehole - Wikipedia",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://thewhippet.org/178-better-say-something-about-the-moon/#guess-what-is-under-this-unassuming-metal-cover",
+    "title": "The Whippet #178: Somebody better say something about the moon",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://blog.gitbutler.com/git-tips-1-theres-a-git-config-for-that/?ck_subscriber_id=2185177551",
+    "title": "Git Tips 1: Oldies but Goodies",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.wellnesswisdom.xyz/p/vol-51-the-journey?publication_id=33691&post_id=86971654&isFreemail=true&open=false",
+    "title": "the journey - by Patricia Mou - wellness wisdom",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.theguardian.com/artanddesign/2024/feb/07/furry-goat-men-bulgaria-charles-fregers-best-photograph",
+    "title": "The very furry goat-men of Bulgaria: Charles Fréger’s best photograph | Art and design | The Guardian",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/honojs/honox?ck_subscriber_id=2185177551",
+    "title": "honojs/honox: HonoX",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.socolachocolates.com",
+    "title": "Socola Chocolatier",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://ferd.ca/a-distributed-systems-reading-list.html",
+    "title": "A Distributed Systems Reading List",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.hyrumslaw.com/",
+    "title": "Hyrum's Law",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/ms-jpq/sad?ref=console.dev",
+    "title": "ms-jpq/sad at console.dev",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://insidethemagic.net/2020/02/walt-disneys-everlasting-effect-on-ski-resorts-tm1/",
+    "title": "Walt Disney's Everlasting Effect on North American Ski Resorts - Inside the Magic",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.futilitycloset.com/2024/02/15/in-a-word-668/",
+    "title": "In a Word - Futility Closet",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.swiftuifieldguide.com/",
+    "title": "The SwiftUI Field Guide",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/",
+    "title": "Unexplanations: query optimization works because sql is declarative",
     "source": "Obsidian"
   }
 ]
