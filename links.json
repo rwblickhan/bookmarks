@@ -24240,5 +24240,245 @@
     "url": "https://www.scattered-thoughts.net/writing/unexplanations-sql-declarative/",
     "title": "Unexplanations: query optimization works because sql is declarative",
     "source": "Obsidian"
+  },
+  {
+    "url": "https://testcontainers.com/",
+    "title": "Testcontainers",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Feb/28/testcontainers/",
+    "title": "Simon Willison's comments",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://web.archive.org/web/20121017165512/http://pqasb.pqarchiver.com/washingtonpost_historical/access/193251682.html?dids=193251682:193251682&FMT=ABS&FMTS=ABS:AI&date=Feb+28,+1923&pub=The+Washington+Post&startpage=2",
+    "title": "an article in the _Washington Post_",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.futilitycloset.com/2024/02/22/decalogue-2/",
+    "title": "Decalogue - Futility Closet",
+    "source": "Obsidian"
+  },
+  {
+    "url": "http://abandonedfootnotes.blogspot.com/2014/02/francisco-franco-robust-action-and.html?m=1",
+    "title": "Abandoned Footnotes: Francisco Franco, Robust Action, and the Power of Non-Commitment",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://jamesg.blog/2024/02/28/programming-projects/",
+    "title": "(Even more) challenging programming projects you should try | James' Coffee Blog",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://thewhippet.org/179-antarctica-not-the-answer/?ref=the-whippet-newsletter",
+    "title": "The Whippet #179: Antarctica is not the answer",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://rwblickhan.org/technical/typst-resume/",
+    "title": "Typst article",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://blog.sbensu.com/posts/apis-as-ladders/",
+    "title": "sbensu: APIs as ladders",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://blog.sbensu.com/posts/lieutenants/",
+    "title": "sbensu: Lieutenants are the limiting reagent",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://roboflow.com/careers",
+    "title": "Roboflow",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://whyisthisinteresting.substack.com/p/the-znachki-edition?publication_id=7000&post_id=141889134&isFreemail=true&r=p8s",
+    "title": "(23) The Znachki Edition - by Guest Contributor",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://rwblickhan.org/technical/bookmarks/",
+    "title": "Building bookmarks.rwblickhan.org",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://rwblickhan.org/technical/typst-resume/",
+    "title": "Writing a Resume in Typst",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/gptscript-ai/gptscript",
+    "title": "gptscript-ai/gptscript: Develop LLM Apps in Natural Language",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://buttondown.email/hillelwayne/archive/know-of-the-right-tool-for-the-job/",
+    "title": "Know (of) the right tool for the job • Buttondown",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.mintybongwater.com/",
+    "title": "Minty Bong Water - Inspiring One Million to Buy a Plant",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://quickposes.com/en",
+    "title": "Quickposes: free image library and gesture drawing tool for artists",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://raindrop.io/",
+    "title": "Raindrop.io — All-in-one bookmark manager",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://twitter.com/karpathy/status/1760388761349927356",
+    "title": "Andrej Karpathy on X: \"# on technical accessibility One interesting observation I think back to often: - when I first published the micrograd repo, it got some traction on GitHub but then somewhat stagnated and it didn't seem that people cared much. - then I made the video building it from scratch,…\" / X",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://samwho.dev/bloom-filters/?ck_subscriber_id=2185177551",
+    "title": "Bloom Filters",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://crab.fit/",
+    "title": "Crab Fit",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Ply_(game_theory)",
+    "title": "ply",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=6DGNZnfKYnU",
+    "title": "tic-tac-toe is not worth playing",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Tic-tac-toe#Strategy",
+    "title": "easy strategy",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=sE2qa96pq8I",
+    "title": "go too many layers deep",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://read.fluxcollective.org/p/132#%C2%A7lens-of-the-week",
+    "title": "🌀🗞 The FLUX Review, Ep. 132",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://blog.sbensu.com/posts/friction-logs/",
+    "title": "sbensu: How to: friction logs",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.linkace.org/",
+    "title": "LinkAce - Your self-hosted bookmark archive. Free and open source.",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/alphagov/govuk_elements/pull/272",
+    "title": "nuance around buttons and links",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.w3.org/TR/WCAG22/#non-text-content",
+    "title": "56 Success Criteria in WCAG",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.w3.org/WAI/test-evaluate/conformance/",
+    "title": "conformance evaluation",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.a11yproject.com/posts/macos-browser-keyboard-navigation/",
+    "title": "check settings",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://business.gov.nl/amendment/european-accessibility-act-products-services/",
+    "title": "European Accessibility Act",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.lflegal.com/global-law-and-policy/",
+    "title": "policies and laws all around the world",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://talks.hiddedevries.nl/IEwNvG/could-browsers-fix-more-accessibility-problems-automatically",
+    "title": "solved by browsers",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://talks.hiddedevries.nl/tGzZs2/your-cms-is-an-accessibility-assistant",
+    "title": "authoring tools",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.myndex.com/BPCA/",
+    "title": "colour algorithm",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://archive.is/QpfUG",
+    "title": "Invented Chinese Names Rejected in San Francisco Elections - The New York Times",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://maggieappleton.com/gathering-structures",
+    "title": "Gathering Structures",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.bram.us/2024/02/14/scroll-driven-animations-you-want-overflow-clip-not-overflow-hidden/",
+    "title": "Scroll-Driven Animations: You want overflow: clip, not overflow: hidden – Bram.us",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://daverupert.com/2024/02/ui-states/",
+    "title": "UI = f(statesⁿ) | daverupert.com",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.sfchronicle.com/food/restaurants/article/a16-la-pala-pizza-18678220.php?sid=638c256380383cf2790df08a&ss=P&st_rid=78c4e0e7-55f1-45ff-918e-16df92e506dd",
+    "title": "A16 La Pala",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.sfiziopasta.com",
+    "title": "Sfizio",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://silkykitchen.com",
+    "title": "Silky Kitchen",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://sf.eater.com/2024/2/22/24080126/sarap-shop-new-filpino-restaurant-vegan-soma",
+    "title": "Sarap Shop",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://dx.tips/meetups-guide",
+    "title": "How to Organize Meetups Good",
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://gazette.universalthirst.com/home/typographic-emphasis-in-devanagari-part-1",
+    "title": "The Universal Thirst Gazette | Typographic Emphasis in Devanagari",
+    "source": "Obsidian"
   }
 ]
