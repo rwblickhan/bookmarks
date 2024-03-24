@@ -1,4 +1,4 @@
-import { Link } from "./main.ts";
+import { Link } from "./types.ts";
 
 interface GoodlinksLink {
   readAt: string | null;

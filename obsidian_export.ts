@@ -1,4 +1,4 @@
-import { Link } from "./main.ts";
+import { Link } from "./types.ts";
 import { walk } from "https://deno.land/std@0.182.0/fs/mod.ts";
 import { marked } from "https://deno.land/x/marked@1.0.2/mod.ts";
 
