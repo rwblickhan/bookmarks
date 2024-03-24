@@ -2,7 +2,8 @@ import Readability from "npm:@mozilla/readability";
 import ProgressBar from "https://deno.land/x/progress@v1.3.8/mod.ts";
 import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.43/deno-dom-wasm.ts";
 import * as Pagefind from "npm:pagefind";
-import { DB } from "https://deno.land/x/sqlite@v3.8/mod.ts";
+import { Link, LinkSource } from "./types.ts";
+import { Cache } from "./cache.ts";
 
 const CACHE = "cache";
 const BANNED_HOSTS = [
@@ -13,14 +14,6 @@ const BANNED_HOSTS = [
   "esoteric.codes",
   "l.bulletin.com",
 ];
-
-export type LinkSource = "GoodLinks" | "Obsidian";
-
-export interface Link {
-  url: string;
-  title: string;
-  source: LinkSource;
-}
 
 interface Article {
   title: string;
@@ -41,16 +34,7 @@ interface IndexErrors {
 }
 
 if (import.meta.main) {
-  const db = new DB("cache.db");
-
-  db.execute(`
-  CREATE TABLE IF NOT EXISTS ${CACHE} (
-    id INTEGER PRIMARY KEY AUTOINCREMENT,
-    url TEXT UNIQUE,
-    title TEXT,
-    parsed_content TEXT
-  )
-`);
+  using cache = new Cache(CACHE, "cache.db");
 
   const linksExportFile = Deno.readTextFileSync("links.json");
   const links = JSON.parse(linksExportFile) as Link[];
@@ -77,19 +61,14 @@ if (import.meta.main) {
 
     // TODO: Only run this query once?
 
-    const rows = db.query<[string, string]>(
-      `SELECT title, parsed_content FROM ${CACHE} WHERE url = :url`,
-      {
-        url: link.url,
-      }
-    );
+    const parsedLink = cache.query(link.url);
 
-    let article: Article;
+    let article: Article
 
-    if (rows.length > 0) {
+    if (parsedLink) {
       article = {
-        title: rows[0][0],
-        textContent: rows[0][1],
+        title: parsedLink.title,
+        textContent: parsedLink.textContent,
       };
     } else {
       let data;
@@ -138,15 +117,13 @@ if (import.meta.main) {
       });
     }
 
-    if (rows.length === 0) {
-      db.query(
-        `INSERT INTO ${CACHE} (url, title, parsed_content) VALUES (:url, :title, :parsed_content)`,
-        {
-          url: link.url,
-          title: article?.title ?? "",
-          parsed_content: article?.textContent ?? "",
-        }
-      );
+    if (!parsedLink) {
+      cache.insert({
+        url: link.url,
+        title: article?.title ?? "",
+        textContent: article?.textContent ?? "",
+        source: link.source,
+      })
     }
 
     completed += 1;
@@ -168,6 +145,4 @@ if (import.meta.main) {
       2
     )
   );
-
-  db.close();
 }
