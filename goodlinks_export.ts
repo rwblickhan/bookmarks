@@ -4,6 +4,7 @@ interface GoodlinksLink {
   readAt: string | null;
   starred: boolean;
   title: string;
+  tags?: string[];
   url: string;
 }
 
@@ -37,6 +38,7 @@ if (import.meta.main) {
     filteredLinks.push({
       url: goodlinksLink.url,
       title: goodlinksLink.title,
+      tags: goodlinksLink.tags ?? [],
       source: "GoodLinks",
     });
   }

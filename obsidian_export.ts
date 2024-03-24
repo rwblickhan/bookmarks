@@ -61,6 +61,7 @@ if (import.meta.main) {
     filteredLinks.push({
       url: obsidianLink.url,
       title: obsidianLink.title,
+      tags: [],
       source: "Obsidian",
     });
   }

@@ -3,6 +3,7 @@ export interface Link {
   url: string;
   title: string;
   source: LinkSource;
+  tags: string[];
 }
 export interface ParsedLink {
   url: string;
