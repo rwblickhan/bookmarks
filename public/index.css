@@ -34,7 +34,6 @@ p {
 
 p a {
   color: white;
-  text-decoration-line: none;
 }
 
 p a:hover {
@@ -52,6 +51,11 @@ p a:hover {
 
 .header p {
   padding-left: 1rem;
+  color: white;
+}
+
+.header a {
+  text-decoration-line: none;
 }
 
 #search {
