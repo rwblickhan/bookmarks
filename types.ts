@@ -5,9 +5,6 @@ export interface Link {
   source: LinkSource;
   tags: string[];
 }
-export interface ParsedLink {
-  url: string;
-  title: string;
-  source: LinkSource;
+export type ParsedLink = Link & {
   textContent: string;
-}
+};

@@ -16,14 +16,15 @@ export class Cache implements Disposable {
     url TEXT UNIQUE,
     title TEXT,
     parsed_content TEXT,
-    source TEXT CHECK(source IN ('GoodLinks', 'Obsidian'))
+    source TEXT CHECK(source IN ('GoodLinks', 'Obsidian')),
+    tags JSON 
   )
 `);
   }
 
   query(url: string): ParsedLink | null {
-    const rows = this.db.query<[string, string, LinkSource, string]>(
-      `SELECT url, title, source, parsed_content FROM ${this.cacheName} WHERE url = :url`,
+    const rows = this.db.query<[string, string, LinkSource, string, string]>(
+      `SELECT url, title, source, tags, parsed_content FROM ${this.cacheName} WHERE url = :url`,
       {
         url: url,
       }
@@ -33,7 +34,8 @@ export class Cache implements Disposable {
         url: rows[0][0],
         title: rows[0][1],
         source: rows[0][2],
-        textContent: rows[0][3],
+        tags: JSON.parse(rows[0][3]) as string[],
+        textContent: rows[0][4],
       };
     } else {
       return null;
@@ -42,11 +44,12 @@ export class Cache implements Disposable {
 
   insert(parsedLink: ParsedLink) {
     this.db.query(
-      `INSERT INTO ${this.cacheName} (url, title, parsed_content, source) VALUES (:url, :title, :parsed_content, :source)`,
+      `INSERT INTO ${this.cacheName} (url, title, source, tags, parsed_content)  VALUES (:url, :title, :source, :tags, :parsed_content)`,
       {
         url: parsedLink.url,
         title: parsedLink.title ?? "",
         parsed_content: parsedLink.textContent ?? "",
+        tags: JSON.stringify(parsedLink.tags) ?? "[]",
         source: parsedLink.source,
       }
     );
