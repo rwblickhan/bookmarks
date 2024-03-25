@@ -4,8 +4,8 @@ import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.43/deno-dom-wasm.ts
 import * as Pagefind from "npm:pagefind";
 import { Link, LinkSource } from "./types.ts";
 import { Cache } from "./cache.ts";
+import { CACHE_NAME, CACHE_PATH } from "./types.ts";
 
-const CACHE = "cache";
 const BANNED_HOSTS = [
   "vitalik.ca",
   "archive.ph",
@@ -34,7 +34,7 @@ interface IndexErrors {
 }
 
 if (import.meta.main) {
-  using cache = new Cache(CACHE, "cache.db");
+  const cache = new Cache(CACHE_NAME, CACHE_PATH);
 
   const linksExportFile = Deno.readTextFileSync("links.json");
   const links = JSON.parse(linksExportFile) as Link[];
@@ -63,7 +63,7 @@ if (import.meta.main) {
 
     const parsedLink = cache.query(link.url);
 
-    let article: Article
+    let article: Article;
 
     if (parsedLink) {
       article = {
@@ -122,8 +122,9 @@ if (import.meta.main) {
         url: link.url,
         title: article?.title ?? "",
         textContent: article?.textContent ?? "",
+        tags: link.tags,
         source: link.source,
-      })
+      });
     }
 
     completed += 1;
