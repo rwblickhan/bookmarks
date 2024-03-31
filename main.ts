@@ -1,7 +1,6 @@
 import Readability from "npm:@mozilla/readability";
 import ProgressBar from "https://deno.land/x/progress@v1.3.8/mod.ts";
 import { DOMParser } from "https://deno.land/x/deno_dom@v0.1.43/deno-dom-wasm.ts";
-import * as Pagefind from "npm:pagefind";
 import { Link, LinkSource } from "./types.ts";
 import { Cache } from "./cache.ts";
 import { CACHE_NAME, CACHE_PATH } from "./types.ts";
@@ -46,13 +45,6 @@ if (import.meta.main) {
 
   // TODO: Clean out cache occasionally
 
-  const { index } = await Pagefind.createIndex({});
-
-  if (!index) {
-    console.error("Failed to create Pagefind index");
-    Deno.exit(1);
-  }
-
   const fetchErrors: FetchError[] = [];
   const indexErrors: IndexErrors[] = [];
 
@@ -95,28 +87,6 @@ if (import.meta.main) {
       article = reader.parse() as Article;
     }
 
-    const { errors } = await index.addCustomRecord({
-      url: link.url,
-      content: (article?.title ?? "") + (article?.textContent ?? ""),
-      meta: {
-        title: article?.title ?? "",
-        site: new URL(link.url).hostname,
-        source: link.source,
-      },
-      filters: {
-        site: [new URL(link.url).hostname],
-      },
-      language: "en",
-    });
-
-    if (errors.length > 0) {
-      indexErrors.push({
-        url: link.url,
-        errors,
-        source: link.source,
-      });
-    }
-
     if (!parsedLink) {
       cache.insert({
         url: link.url,
@@ -130,17 +100,12 @@ if (import.meta.main) {
     completed += 1;
   }
 
-  const { errors: writeErrors } = await index.writeFiles({
-    outputPath: "public/pagefind",
-  });
-
   Deno.writeTextFileSync(
     "errors.json",
     JSON.stringify(
       {
         fetchErrors,
         indexErrors,
-        writeErrors: writeErrors.length > 0 ? writeErrors : [],
       },
       null,
       2
