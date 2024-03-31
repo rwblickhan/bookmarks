@@ -8,6 +8,7 @@ import { CACHE_NAME, CACHE_PATH } from "./types.ts";
 const BANNED_HOSTS = [
   "vitalik.ca",
   "archive.ph",
+  "archive.is",
   "historic-cities.huji.ac.il",
   "society.robinsloan.com",
   "esoteric.codes",
