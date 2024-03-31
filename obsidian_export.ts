@@ -38,7 +38,7 @@ async function processMarkdownFiles(
 
 if (import.meta.main) {
   const obsidianLinks = await processMarkdownFiles(
-    "/Users/rwblickhan/Library/Mobile Documents/iCloud~md~obsidian/Documents/notes"
+    "/Users/rwblickhan/Developer/notes"
   );
 
   console.log(`Found ${obsidianLinks.length} Obsidian links`);
