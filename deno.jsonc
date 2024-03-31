@@ -3,7 +3,7 @@
     "export_goodlinks": "deno run --allow-read --allow-write goodlinks_export.ts",
     "export_obsidian": "deno run --allow-read --allow-write obsidian_export.ts",
     "fetch": "deno run --allow-read --allow-run --allow-write --allow-net --allow-env fetch.ts",
-    "raindrop_export": "deno run --allow-read --allow-write raindrop_export.ts",
+    "raindrop_export": "deno run --allow-read --allow-write export_raindrop.ts",
     "serve": "deno run --allow-net --allow-read server.ts"
   }
 }
