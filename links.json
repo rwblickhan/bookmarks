@@ -17511,12 +17511,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://roboflow.com/careers",
-    "title": "Roboflow",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://publicdomainreview.org/collection/the-unicorn-tapestries-1495-1505",
     "title": "The Unicorn Tapestries (1495–1505)",
     "tags": [],
@@ -31957,6 +31951,180 @@
   {
     "url": "https://www.viki.com/tv/39255c-three-body",
     "title": "*Three-Body*",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://r.jina.ai/https://simonwillison.net/2024/Jun/16/jina-ai-reader/",
+    "title": "https://r.jina.ai/https://simonwillison.net/2024/Jun/16/jina-ai-reader/",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://jina.ai/reader/",
+    "title": "Reader API",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Jun/16/jina-ai-reader/",
+    "title": "Simon Willison's notes",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://x.com/HamelHusain/status/1798757828100047063",
+    "title": "Hamel Husain on X: \"LLM bullshit knife, to cut through bs RAG -&gt; Provide relevant context Agentic -&gt; Function calls that work CoT -&gt; Prompt model to think/plan FewShot -&gt; Add examples PromptEng -&gt; Someone w/good written comm skills. Prompt Optimizer -&gt; For\" / X",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://travelbetweenthepages.com/2024/06/10/life-is-stranger-than-fiction/",
+    "title": "Life is stranger than fiction | Travel Between The Pages",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.terranullius.world/p/all-we-can-be-is-tourists-now",
+    "title": "\"All We Can Be Is Tourists Now\" and modernity",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/quickwit-oss/tantivy-cli",
+    "title": "quickwit-oss/tantivy-cli",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Jun/13/tantivy-cli/",
+    "title": "Simon Willson's notes",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://helm-app.com/",
+    "title": "Helm for App Store Connect: Make shipping apps fun.",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/glacambre/firenvim?tab=readme-ov-file",
+    "title": "glacambre/firenvim: Embed Neovim in Chrome, Firefox & others.",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/georgestagg/pandoc-wasm?tab=readme-ov-file",
+    "title": "georgestagg/pandoc-wasm: The universal document converter, compiled for WebAssembly and running in the browser.",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://djot.net/",
+    "title": "djot",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.cyberdemon.org/2024/03/20/submodules.html",
+    "title": "Demystifying git submodules",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.holy-nata.com",
+    "title": "Holy Nata",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.fidelity.com",
+    "title": "Fidelity",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.hsabank.com/HSABank/Home-Page.html",
+    "title": "HSA Bank",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.anthem.com",
+    "title": "Anthem",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.guardianlife.com",
+    "title": "Guardian",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.vsp.com",
+    "title": "VSP",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://going-medieval.com/2024/06/14/on-gossip/",
+    "title": "On gossip – Going Medieval",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.instagram.com/p/CdL9mN8K__F/",
+    "title": "Iceland, Vestrahorn. What a place. Absolutely incredible. • #Iceland #travelphotography #Vestrahorn #icelandichorses #icelanddrone… | Instagram",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://fontawesome.com/",
+    "title": "Font Awesome",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://archive.org/details/webstersuniversa0001jose/page/n43/mode/2up",
+    "title": "_Webster’s Universal Dictionary of the English Language_",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.futilitycloset.com/2024/06/19/true-love/",
+    "title": "True Love - Futility Closet",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://antonz.org/sqlite-delete-limit/",
+    "title": "Modern SQLite: Delete limit",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://en.nearbywiki.org",
+    "title": "NearbyWiki: Wikipedia places nearby",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://lukeplant.me.uk/blog/posts/never-sometimes-always/",
+    "title": "Never, Sometimes, Always - lukeplant.me.uk",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.scratchapixel.com/",
+    "title": "Scratchapixel 4.0, Learn Computer Graphics Programming",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://en.m.wikipedia.org/wiki/Zendo_(game)",
+    "title": "Zendo (game) - Wikipedia",
     "tags": [],
     "source": "Obsidian"
   }
