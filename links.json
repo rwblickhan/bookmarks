@@ -21201,12 +21201,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://books.google.com/books?id=wN4DAAAAMBAJ&lpg=PP1&pg=PA810#v=onepage&q&f=false",
-    "title": "space to park a thousand cars",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.futilitycloset.com/2022/03/24/moving-up-4/",
     "title": "\"Moving Up\"",
     "tags": [],
@@ -22061,24 +22055,6 @@
   {
     "url": "https://mobile.twitter.com/WeirdMedieval/status/1529477558659477505",
     "title": "weird medieval guys on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/tpope/vim-surround",
-    "title": "vim-surround",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/replit/codemirror-vim",
-    "title": "codemirror-vim",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/VSCodeVim/Vim/blob/master/src/actions/plugins/surround.ts",
-    "title": "VSCodeVim's implementation",
     "tags": [],
     "source": "Obsidian"
   },
@@ -25035,12 +25011,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://twitter.com/Sonja_Drimmer/status/1573068649967091714",
-    "title": "𝕊onja Drimmer on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://twitter.com/rsnous/status/1482429915052093449",
     "title": "Omar Rizwan on Twitter",
     "tags": [],
@@ -25863,12 +25833,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://sf.eater.com/2023/6/28/23777132/far-from-paradise-cafe-malasadas-san-francisco-open",
-    "title": "malasadas",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://sf.eater.com/2023/10/3/23902056/fikscue-restaurant-barbecue-indonesian-alameda?ueid=c7167216f83a4f9241be67d46c86c056",
     "title": "Fikscue",
     "tags": [],
@@ -25901,18 +25865,6 @@
   {
     "url": "https://www.sfchronicle.com/food/restaurants/article/aydea-sf-cafe-bakery-18613023.php?sid=638c256380383cf2790df08a&ss=P&st_rid=78c4e0e7-55f1-45ff-918e-16df92e506dd",
     "title": "AyDea",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://sf.eater.com/2024/2/5/24062222/new-cocktail-bar-polkcha-san-francisco?ueid=c7167216f83a4f9241be67d46c86c056",
-    "title": "Polkcha",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.socolachocolates.com",
-    "title": "Socola Chocolatier",
     "tags": [],
     "source": "Obsidian"
   },
@@ -26441,12 +26393,6 @@
   {
     "url": "https://discord.com/channels/1023106216328712282/1047782901049196585/1056330153745203281",
     "title": "Wrapped book exchange",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.audium.org",
-    "title": "Audium",
     "tags": [],
     "source": "Obsidian"
   },
@@ -28013,12 +27959,6 @@
   {
     "url": "https://mobile.twitter.com/yacobg42/status/1459495696147615750",
     "title": "Jacob Geller on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://fig.io/",
-    "title": "Fig",
     "tags": [],
     "source": "Obsidian"
   },
@@ -31763,12 +31703,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.holy-nata.com",
-    "title": "Holy Nata",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.fidelity.com",
     "title": "Fidelity",
     "tags": [],
@@ -33526,12 +33460,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.wired.com/story/own-future-artificial-intelligence-read-shakespeare/",
-    "title": "\"Tech and the liberal arts have always been at war\"",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://btmc.substack.com/p/a-survey-on-memory-management-approaches",
     "title": "(9) A Survey on Memory Management Approaches",
     "tags": [],
@@ -33654,6 +33582,1398 @@
   {
     "url": "https://jacobian.org/2024/jul/12/lnt-for-engineering-leadership/",
     "title": "All I Need to Know About Engineering Leadership I Learned From Leave No Trace - Jacob Kaplan-Moss",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.patreon.com/posts/designer-1-felix-97488330",
+    "title": "Designer interviews #1: Felix Isaacs (The Wildsea) | Quinns Quest",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://buildingslack.com/preparing-for-launch/",
+    "title": "Preparing for launch",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://v5.chriskrycho.com/elsewhere/cutting-edge-of-versioning/",
+    "title": "The Cutting Edge of Versioning (LambdaConf 2024) — Sympolymathesy, by Chris Krycho",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://madebyevan.com/algos/crdt-text-buffer/",
+    "title": "CRDT: Text Buffer - Made by Evan",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/",
+    "title": "I’ve Stopped Using Box Plots. Should You? - Nightingale",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://andymatuschak.org/primer/",
+    "title": "Exorcising us of the Primer",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://tylerneylon.com/a/mind_model/mind_model.html",
+    "title": "A Model of a Mind",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://mssv.net/2024/07/06/a-thousand-primers-not-just-one/",
+    "title": "A Thousand Primers, Not Just One",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://ttumiel.com/blog/min-rlhf/",
+    "title": "minRLHF: Reinforcement Learning from Human Feedback from Scratch | Tom Tumiel",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://michaelnielsen.org/blog/principles-of-effective-research/",
+    "title": "Principles of Effective Research – Michael Nielsen",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://github.com/BurntSushi/jiff/blob/master/DESIGN.md",
+    "title": "jiff/DESIGN.md at master · BurntSushi/jiff",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://verabee.substack.com/p/simeonof?publication_id=2723273&post_id=146864385&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Simeonof - by Vera Brosgol - Rat Cruise",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=b0ehs-QVrqo",
+    "title": "Design Diary 2: How to Play Bugfight (And the Ant Hole Problem)",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=vd5fk6qNS-M",
+    "title": "Design Diary 3: The Complexity Budget",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=WbH83E83ZTU",
+    "title": "Quinns Quest Reviews: This Sci-Fi RPG Changes Everything",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://buttondown.email/hillelwayne/archive/my-patented-miracle-tonic-would-have-prevented/",
+    "title": "My patented Miracle Tonic would have prevented the CrowdStrike meltdown",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.patreon.com/posts/fan-club-video-5-108666755",
+    "title": "Fan Club Video #5: How to Teach TTRPGs! | Quinns Quest",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://kottke.org/24/07/how-sci-fi-movies-have-changed-since-the-50s",
+    "title": "How Sci-Fi Movies Have Changed Since the 50s",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://asteriskmag.com/issues/06/better-living-through-group-chemistry",
+    "title": "Better Living Through Group Chemistry—Asterisk",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://capitalgains.thediff.co/p/customer-worth",
+    "title": "What is a Customer Worth?",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://capitalgains.thediff.co/p/thinking-unit-economics",
+    "title": "Thinking in Unit Economics",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://birdhistory.substack.com/p/canaries-in-coal-mines?publication_id=1838450&post_id=146944945&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Canaries in Coal Mines - by Robert Francis - Bird History",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://two-wrongs.com/publish-your-observations",
+    "title": "Publish Your Observations!",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://thegradientpub.substack.com/p/c-thi-nguyen-values-legibility-games",
+    "title": "C. Thi Nguyen: Values, Legibility, and Gamification",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://oll.libertyfund.org/publications/liberty-matters/2018-11-13-democracy-s-decline-pareto-and-fascism",
+    "title": "Democracy's Decline: Pareto and Fascism | Online Library of Liberty",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=F1IZC3t8NRc",
+    "title": "Rosie starts a career that's Built to Last",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://superbowl.substack.com/p/jungian-psychology-minus-the-nonsense",
+    "title": "Jungian Psychology, Minus the Nonsense - by Max Goodbird",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://srajagopalan.substack.com/p/kamala-harris-usha-vance-and-the?publication_id=1181507&post_id=146694964&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Kamala Harris, Usha Vance, and the twice-born thrice-selected Indian American elite",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://doomsdaymachines.net/p/what-would-a-faithful-world-war-z?publication_id=2691011&post_id=145620045&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "What would a faithful World War Z adaptation look like?",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://doomsdaymachines.net/p/the-big-board?publication_id=2691011&post_id=146685441&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "The Big Board - by Alex Wellerstein - Doomsday Machines",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.eleanorkonik.com/p/fremen-walking-into-the-desert-to",
+    "title": "📚 Fremen walking into the desert to die are wasting their water",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.eleanorkonik.com/p/female-judges-deborah-andamana",
+    "title": "Female Judges as Rulers - by Eleanor Konik",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=JPnTm8C_OfY",
+    "title": "The Insane Realism Of The Movie That Changed How Cars Are Filmed",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=C27PlV_zijk",
+    "title": "How the news broke on X",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://matklad.github.io/2024/07/25/git-worktrees.html",
+    "title": "How I Use Git Worktrees",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://commoncog.com/the-secret-heart-of-continuous-improvement/",
+    "title": "The Secret at the Heart of Continuous Improvement",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://annas-archive.org/blog/critical-window.html",
+    "title": "The critical window of shadow libraries",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=zyZY1dq5BFc",
+    "title": "why you were forced to learn the recorder in school",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=x3RhJzWBlcQ",
+    "title": "Steamed Hams but it's Clutch Cargo",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://lambdaland.org/posts/2024-07-15_type_tailoring/",
+    "title": "Evolving Languages Faster with Type Tailoring",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://acoup.blog/2024/07/26/collections-teaching-paradox-imperator-part-iia-pops-and-chains/",
+    "title": "Collections: Teaching Paradox, Imperator, Part IIa: Pops and Chains",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.patreon.com/posts/nothing-ever-108624144?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyZWRpc19rZXkiOiJpYTI6YTVjN2ZmOTctOGJlOS00OThiLWExOTctYzRhMmRmNTZmMjIwIiwicG9zdF9pZCI6MTA4NjI0MTQ0LCJwYXRyb25faWQiOjUxMjY3NDgxfQ.Lv9G7g-4LPgBti0i6o1G01qWD5s4EKsL9tQerb-jp54",
+    "title": "Nothing Ever Stops Existing | Jacob Geller",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.thepsmiths.com/p/review-the-real-north-korea-by-andrei",
+    "title": "REVIEW: The Real North Korea, by Andrei Lankov",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://franklantz.substack.com/p/are-games-good?publication_id=1435607&post_id=146529107&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Are Games Good? - by Frank Lantz - Donkeyspace",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://stamen.com/the-many-lives-of-null-island/",
+    "title": "The Many Lives of Null Island | Stamen",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.susiechen.com/sabbatical",
+    "title": "Sabbatical",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://slimemoldtimemold.com/2024/07/27/lithium-hypothesis-of-obesity-recap/",
+    "title": "Lithium Hypothesis of Obesity: Recap",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.argmin.net/p/blogging-philosophical-psychology",
+    "title": "Blogging Philosophical Psychology - by Ben Recht - arg min",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.argmin.net/p/everything-inherently-meta",
+    "title": "Everything Inherently Meta - by Ben Recht - arg min",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.argmin.net/p/risky-predictions",
+    "title": "Risky Predictions - by Ben Recht - arg min",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.savageevan.com/schengen/",
+    "title": "Schengen ain't what it used to be",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://buttondown.email/danbouk/archive/oceans-of-power-and-a-tincture-of-reproof/",
+    "title": "Oceans of Power and a Tincture of Reproof",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.nytimes.com/1974/01/13/archives/they-kill-animals-and-they-call-it-art-more-and-more-directors-are.html",
+    "title": "They Kill Animals And They Call It Art",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://filmicmag.com/2016/03/18/analyze-this-the-holy-mountain/",
+    "title": "ANALYZE THIS: The Holy Mountain",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://asteriskmag.com/issues/07/artificial-wombs-when",
+    "title": "Artificial Wombs When?—Asterisk",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://interjectedfuture.com/trade-offs-between-different-crdts/",
+    "title": "Trade-offs between Different CRDTs",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://interjectedfuture.com/crdts-turned-inside-out/",
+    "title": "CRDTs Turned Inside Out",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://effectivetypescript.com/2024/03/24/flownodes/",
+    "title": "Effective TypeScript › Flow Nodes: How Type Inference Is Implemented",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://buttondown.email/jaffray/archive/what-do-we-want-negation-when-do-we-want-it-not/",
+    "title": "What do we want? Negation! When do we want it? Not later!",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://tailscale.com/blog/new-internet",
+    "title": "The New Internet",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LbwKSw2UTq8",
+    "title": "POP SONG REVIEW: \"Not Like Us\" by Kendrick Lamar",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://trevorklee.substack.com/p/thoughts-on-california-from-a-brief?publication_id=672559&post_id=147148821&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Thoughts on California from a brief visit",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://katemckean.substack.com/p/what-you-need-to-know-to-work-in?publication_id=1878&post_id=147164910&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "What You Need to Know to Work in Publishing",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://shwin.co/blog/creativity-fundamentally-comes-from-memorization",
+    "title": "Creativity Fundamentally Comes From Memorization",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.woman-of-letters.com/p/western-civilization-vs-world-literature?publication_id=1829526&post_id=147056004&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "\"Western civilization\" vs. \"World literature\"",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=cA7u578i5oc",
+    "title": "The Director Who Revolutionized The POV Shot",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://doomsdaymachines.net/p/lord-byrons-darkness?publication_id=2691011&post_id=145581306&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Lord Byron's \"Darkness\" - by Alex Wellerstein",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://morepablo.com/2024/07/disco-elysium.html",
+    "title": "Disco Elysium 🪩🕺👮🔫🚬",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Md5PTWBuGpg",
+    "title": "Searching for Disco Elysium",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.patreon.com/posts/directors-for-46741484",
+    "title": "Director's Commentary: Searching for Disco Elysium | Jacob Geller",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=n_7ngJDbUQE",
+    "title": "Judicial Opinions: What Makes Disco Elysium a Modern Classic? [Full Spoilers]",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://web.mit.edu/jmorzins/www/C-H-speech.html",
+    "title": "Calvin and Hobbes at Martijn's",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/",
+    "title": "Crafting Interpreters with Rust: On Garbage Collection",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://marginalrevolution.com/marginalrevolution/2024/07/not-lost-in-translation-how-barbarian-books-laid-the-foundation-for-japans-industrial-revoluton.html",
+    "title": "Not Lost In Translation: How Barbarian Books Laid the Foundation for Japan's Industrial Revoluton - Marginal REVOLUTION",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://siderea.dreamwidth.org/1850351.html#cutid1",
+    "title": "Class Time [soc just, p/a/s, Patreon]",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://generativist.falsifiable.com/metaverse/dunbars-number-is-quadratic",
+    "title": "Dunbar's Number is Quadratic",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://doomsdaymachines.net/p/survival-of-the-relocated-population",
+    "title": "Survival of the Relocated Population of the U.S. after a Nuclear Attack, 1976",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.lux.camera/kino-a-pro-video-camera-in-four-months/",
+    "title": "The Making of Kino: You Can (Not) Build a Pro Video Camera App in Four Months",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.wheresyoured.at/to-serve-altman/",
+    "title": "How Does OpenAI Survive?",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://oldster.substack.com/p/the-semi-egalitarian-sex-life-of",
+    "title": "The Semi-Egalitarian Sex Life of Elaine Benes",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://arun.is/blog/shanghai-cars/",
+    "title": "Shanghai's automotive metamorphosis",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://siderea.dreamwidth.org/1850890.html",
+    "title": "Followup to Class Time [p/a/s, socjust]",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.miriamsuzanne.com/2024/07/02/slash-why/",
+    "title": "A Slash-Why Proposal",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=su6WA0kUUJE",
+    "title": "Web Design Engineering With the New CSS | Matthias Ott | CSS Day 2024",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://danfrank.ca/cocaine-kim-jong-un-and-blackrock-why-its-good-to-reflect-on-boycotts/",
+    "title": "why It’s good to reflect on boycotts – Daniel Frank",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://wenkytenkybar.substack.com/p/house-of-the-dragon-s2?publication_id=1391079&post_id=147379139&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "House of the Dragon (S2) - by Kendy Li - Wenky Tenky Bar",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://dbushell.com/2024/08/05/the-deno-package-paradox/",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/styles-of-acting-styles-of-being/",
+    "title": "styles of acting, styles of being – The Homebound Symphony",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.librarian.net/stax/5566/the-mining-of-the-public-domain/",
+    "title": "The mining of the public domain",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qpuQCGuI41Y",
+    "title": "Everyone was Wrong about Ghengis Khan",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=9hEHOaZYEeE",
+    "title": "Death Note but you can't hear the internal monologues.",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=rvdj018qQwU",
+    "title": "My #1 solution for self doubt",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.woman-of-letters.com/p/hinduism-doesnt-exist",
+    "title": "Hinduism doesn't exist - by Naomi Kanakia",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=kj7WGnUDaI4",
+    "title": "The Secret Mechanisms of CSS — Web à Québec",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://clairelevans.substack.com/p/the-colony-makes-the-world",
+    "title": "The Colony Makes The World - by Claire L. Evans",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://bessstillman.substack.com/p/how-to-let-go-one-life-ends-while",
+    "title": "How to let go: one life ends while another begins",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=BaIx0KMOg5I",
+    "title": "Tales of the EP-1320: Medieval (teenage engineering)",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=5-I1lT6Jbdo",
+    "title": "Yaelokre - \"Harpy Hare\" 𓆱 (Illustrated Song)",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.bitsofwonder.co/p/competition-and-cooperation-are-both?publication_id=86018&post_id=147391651&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Competition and cooperation are both ubiquitous in biology",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.pcgamer.com/how-wasd-became-the-standard-pc-control-scheme/#212%20-%2014651691",
+    "title": "How WASD became the standard PC control scheme",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://talesoftimesforgotten.com/2024/08/07/why-greece-hasnt-rebuilt-the-agora/",
+    "title": "Why Greece Hasn't Rebuilt the Agora - Tales of Times Forgotten",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.woman-of-letters.com/p/hinduism-has-its-upsides",
+    "title": "Hinduism is somewhat ugly - by Naomi Kanakia",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://dynomight.substack.com/p/olympics?publication_id=327510&post_id=147484423&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "It's probably just money: Why hosts do well at the Olympics",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.grubstreet.com/2014/05/food-dude-doodies-and-the-women-who-love-them.html",
+    "title": "Help! There’s a Doodie in My Kitchen",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.thepsmiths.com/p/review-the-art-of-not-being-governed",
+    "title": "REVIEW: The Art of Not Being Governed, by James C. Scott",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://qwook.substack.com/p/turning-30-reflections?publication_id=1296454&post_id=147501521&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Turning 30 Reflections - by Henry Tran - Henry’s Substack",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.thepsmiths.com/p/review-demons-by-fyodor-dostoevsky",
+    "title": "REVIEW: Demons, by Fyodor Dostoevsky - by John Psmith",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/colonialist-owls/",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://acoup.blog/2024/08/09/collections-teaching-paradox-imperator-part-iib-built-in-a-day/",
+    "title": "Collections: Teaching Paradox, Imperator, Part IIb: Built in a Day",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.justinmath.com/individualized-spaced-repetition-in-hierarchical-knowledge-structures/",
+    "title": "Optimized, Individualized Spaced Repetition in Hierarchical Knowledge Structures",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://ckarchive.com/b/xmuph6hrqdp04hrnppvnqc2le6lllbn",
+    "title": "The Imperfectionist: What would it mean to be done for the day?",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.robinsloan.com/newsletters/summer-reading/#ys",
+    "title": "Summer reading",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-clerihews",
+    "title": "Today’s Poem: Clerihews - by Joseph Bottum",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.bookandsword.com/2024/08/10/wikipedia-culture-journalistic-culture-and-academic-culture/",
+    "title": "Wikipedia Culture, Journalistic Culture, and Academic Culture – Book and Sword",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://maxgladstone.substack.com/p/just-silmaril-things",
+    "title": "Just Silmaril Things - by Max Gladstone - The Third Place",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://jwmason.substack.com/p/did-it-matter",
+    "title": "Did It Matter? - by JW Mason - Money and Things",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://48hills.org/2024/07/risograph-printers-sentient-fungi-dragons-author-robin-sloan-is-moonbound/",
+    "title": "Risograph printers, sentient fungi, crafty dragons: Author Robin Sloan is 'Moonbound' - 48 hills",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.jackcheng.com/bebop-design-dev-process/",
+    "title": "An iOS App for Capturing Notes as Text Files",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://theconvivialsociety.substack.com/p/embracing-sub-optimal-relationships",
+    "title": "Embracing Sub-Optimal Relationships - by L. M. Sacasas",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-over-the-hills-and-far",
+    "title": "Today’s Poem: Over the Hills and Far Away",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://slate.com/culture/2022/12/emily-st-john-mandel-divorced-wikipedia.html",
+    "title": "A Totally Normal Interview With Writer Emily St. John Mandel",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-because-i-could-not-stop",
+    "title": "Today’s Poem: Because I Could Not Stop for Death",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.michigandaily.com/michigan-in-color/what-the-abg-identity-says-about-esea-femininity/",
+    "title": "What the “ABG” identity says about ESEA femininity",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://upennfword.com/2020/03/07/the-rise-of-the-abg/",
+    "title": "The Rise of the ABG",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-war-is-kind",
+    "title": "Today’s Poem: War is Kind - by Joseph Bottum",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-go-and-catch-a-falling",
+    "title": "Today’s Poem: Go and Catch a Falling Star",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-when-i-am-dead-my-dearest",
+    "title": "Today’s Poem: When I Am Dead, My Dearest - by Sally Thomas",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-a-birthday",
+    "title": "Today’s Poem: A Birthday - by Sally Thomas",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=e9O75xFQUio",
+    "title": "OpenAI expert Scott Aaronson on consciousness, quantum physics and AI safety | FULL INTERVIEW",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.thediff.co/archive/our-surprisingly-capital-abundant-world/",
+    "title": "Our Surprisingly Capital-Abundant World",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-on-first-looking-into?publication_id=2265689&post_id=147452017&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Today’s Poem: On First Looking into Chapman’s Homer",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/anarchism-as-a-spiritual-discipline/",
+    "title": "anarchism as a spiritual discipline – The Homebound Symphony",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://daveguarino.substack.com/p/james-c-scott-metis-and-why-motivated?publication_id=1553484&post_id=147593705&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "James C. Scott, metis, and why motivated reasoning is a good thing",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://doomsdaymachines.net/p/pantex-employee-photos-1980s",
+    "title": "Pantex employee photos, 1980s - by Alex Wellerstein",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.astralcodexten.com/p/why-does-ozempic-cure-all-diseases",
+    "title": "Why Does Ozempic Cure All Diseases? - by Scott Alexander",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://steveklabnik.com/writing/against-names/",
+    "title": "Against Names",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=ugm_QuQ5RbY",
+    "title": "St Vincent, Crazy Pete and Kevin Magee",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-lucinda-matlock?publication_id=2265689&post_id=147595000&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Today’s Poem: Lucinda Matlock - by Joseph Bottum",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://capitalgains.thediff.co/p/supply-demand-elasticity?_bhlid=b8cd124a084d4c0e0dae2b2efa05b6fa487d4fa9",
+    "title": "Understanding Elasticity",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.woman-of-letters.com/p/hinduism-is-not-monotheistic",
+    "title": "Hinduism is not monotheistic - Woman of Letters",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://sheep.horse/2024/8/golf.html",
+    "title": "Golf",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-lochinvar?publication_id=2265689&post_id=147597120&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Today’s Poem: Lochinvar - by Joseph Bottum",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/",
+    "title": "Why the CrowdStrike bug hit banks hard",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://jasonpargin.substack.com/p/i-was-david-wong",
+    "title": "I was David Wong - by jasonpargin",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.columbiapsychiatry.org/news/why-forgetting-good-your-memory",
+    "title": "Why Forgetting is Good for Your Memory",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://acoup.blog/2024/08/16/fireside-friday-august-16-2024/",
+    "title": "Fireside Friday, August 16, 2024",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://redsails.org/friendly-feudalism/",
+    "title": "Friendly Feudalism: The Tibet Myth",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-the-road-not-taken?publication_id=2265689&post_id=147320387&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Today’s Poem: The Road Not Taken - by Sally Thomas",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.math.columbia.edu/~woit/wordpress/?p=10522",
+    "title": "Beyond Weird | Not Even Wrong",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/the-game/",
+    "title": "The Game – The Homebound Symphony",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.nytimes.com/2024/08/16/opinion/trump-republican-party-electoral-college.html?unlocked_article_code=1.DU4.Eo2Q.Gm1b0DUek-9A",
+    "title": "Trump Has Opened the Pathway to Reform",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://thevitalcenter.com/spring-2024/the-making-of-the-pmc",
+    "title": "The Making of the Professional Managerial Class: Understanding PMC Discourse — The Vital Center",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=jyz4IA9oHC0",
+    "title": "Ex-Hitman Reacts to Hitman 3",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.newyorker.com/magazine/2024/08/12/devils-contract-the-history-of-the-faustian-bargain-ed-simon-book-review",
+    "title": "Deals with the Devil Aren’t What They Used to Be",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://rfd.shared.oxide.computer/rfd/0508",
+    "title": "508 - Whither CockroachDB? / RFD",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/topological-theology/",
+    "title": "topological theology – The Homebound Symphony",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://v5.chriskrycho.com/library/a-long-kobo-pocket-backlog/",
+    "title": "A Long Kobo/Pocket Backlog — Sympolymathesy, by Chris Krycho",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.robertelder.org/force-true-command-to-return-false/",
+    "title": "How To Force The 'true' Command To Return 'false'",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://registerspill.thorstenball.com/p/seconds-an-eternity",
+    "title": "Second's an Eternity - by Thorsten Ball - Register Spill",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://interconnected.org/home/2023/09/08/razor",
+    "title": "Groundhog Day is about making films, and several other reductive interpretations",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://interconnected.org/home/2020/08/27/foundation",
+    "title": "Asimov’s Foundation, and what’s unique about science fiction",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.gq-magazine.co.uk/article/the-five-families",
+    "title": "What have the five families been doing in the shadows? GQ invesitgates | British GQ",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://lizengland.com/blog/2014/04/the-door-problem/",
+    "title": "“The Door Problem” – Liz England",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://heydonworks.com/article/the-area-element/",
+    "title": "The area element",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.matthewball.co/all/roblox2024",
+    "title": "Roblox is Already the Biggest Game In The World. Why Can't It Make a Profit (And How Can It)? — MatthewBall.co",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.matthewball.co/all/applevision2024",
+    "title": "9 Takeaways from the Vision Pro After 6 Months — MatthewBall.co",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://drafts.interfluidity.com/2024/08/13/china-as-a-model/index.html",
+    "title": "China as a model",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-lucifer-in-starlight?publication_id=2265689&post_id=147711088&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Today’s Poem: Lucifer in Starlight - by Sally Thomas",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://x.com/BretDevereaux/status/1823490577310085234",
+    "title": "Bret Devereaux",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-when-earths-last-picture?publication_id=2265689&post_id=147913155&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Today’s Poem: When Earth’s Last Picture Is Painted",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://omar.website/posts/against-nostalgia-in-computing/",
+    "title": "Against nostalgia in computing",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://trevorklee.substack.com/p/culturing-honesty?publication_id=672559&post_id=147935077&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Culturing honesty - Trevor Klee’s Newsletter",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://gilest.org/clarity-hacks.html",
+    "title": "gilest.org: Clarity hacks",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://poemsancientandmodern.substack.com/p/todays-poem-why-so-pale-and-wan-fond?publication_id=2265689&post_id=147673565&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Today’s Poem: Why So Pale and Wan, Fond Lover?",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://buttondown.com/hillelwayne/archive/texttools-dot-py/",
+    "title": "Texttools dot py",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://falsemachine.blogspot.com/2015/01/strange-grains-d-art-of-not-being.html?m=1",
+    "title": "STRANGE GRAINS - D&Difying 'The Art Of Not Being Governed'",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://youtu.be/GI2M40j60Z8?si=PgMGwl_XVh7bag1S",
+    "title": "*Sea of Stars*",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/",
+    "title": "Text Editor Data Structures",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://zed.dev/blog/zed-decoded-rope-sumtree",
+    "title": "Zed Decoded: Rope & SumTree",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://languagelog.ldc.upenn.edu/nll/?p=65304",
+    "title": "Language Log » Griffins: the implications of art history for language spread",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://x.com/cramforce/status/1819800527527616919",
+    "title": "Malte Ubl on X: \"@simonw @Carnage4Life @shreyas I think the mistake the industry has made is (and I had to learn this as well), that \"we observed ab tests work really well\" is really a statement that should read \"the majority of the changes we make are characterized as hill-climbing growth of a post-PMF b2c product and ab\" / X",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://nicholas.carlini.com/writing/2024/how-i-use-ai.html",
+    "title": "How I Use \"AI\"",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/ciromattia/kcc",
+    "title": "ciromattia/kcc: KCC (a.k.a. Kindle Comic Converter) is a comic and manga converter for ebook readers.",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://pig-monkey.com/2024/08/kindle-comic-converter/",
+    "title": "In Which Graphic Novels Are Optimized for Portability | pig-monkey.com",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/kahole/edamagit",
+    "title": "kahole/edamagit: Magit for VSCode",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://simonwillison.net/2024/Aug/1/footnotes-that-work-in-rss-readers/",
+    "title": "Footnotes that work in RSS readers",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://teawithtekuno.com/",
+    "title": "Tekuno",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project",
+    "title": "CSS One-Liners to Improve (Almost) Every Project",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://explained-from-first-principles.com/email/#impact",
+    "title": "Email explained from first principles at Impact",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://buttondown.email/hillelwayne/archive/why-i-prefer-rst-to-markdown/",
+    "title": "Why I prefer rST to markdown • Buttondown",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.reddit.com/r/AskHistorians/comments/8qowjh/comment/e0lcncx/",
+    "title": "Did the Nazis intentionally simplify their vocabulary? : r/AskHistorians",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.robinsloan.com/newsletters/summer-reading/",
+    "title": "Summer reading",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://arbesman.substack.com/p/human-distinctiveness-in-different?publication_id=3297&post_id=142595527&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "(10) ☞ Human Distinctiveness in Different Cultures",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://v5.chriskrycho.com/journal/psa-on-blockquotes/",
+    "title": "PSA: Do Not Use Blockquotes for Admonitions — Sympolymathesy, by Chris Krycho",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://notes.billmill.org/computer_usage/mac_os/mac_os_command_line_programs.html",
+    "title": "mac os command line programs - llimllib notes",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://daily.jstor.org/the-mexican-hindus-of-rural-california/",
+    "title": "The “Mexican-Hindus” of Rural California - JSTOR Daily",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://buttondown.com/j2kun/archive/decision-logs/",
+    "title": "Decision Logs • Buttondown",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Zhang_Xianzhong",
+    "title": "Zhang Xianzhong - Wikipedia",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://en.wikipedia.org/wiki/Literature_(card_game)",
+    "title": "Literature (card game) - Wikipedia",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.atvbt.com/georgism-email/?ref=atoms-vs-bits-newsletter",
+    "title": "Intuitions for Georgism",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://notes.billmill.org/computer_usage/cli_tips_and_tools/modern_unix_tool_list.html",
+    "title": "modern unix tool list - llimllib notes",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/google/tachometer",
+    "title": "google/tachometer: Statistically rigorous benchmark runner for the web",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/",
+    "title": "Reliable JavaScript benchmarking with Tachometer | Read the Tea Leaves",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://antonz.org/sqlean-time/",
+    "title": "High-precision date/time in SQLite",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.mcgill.ca/oss/article/health-nutrition/water-myth",
+    "title": "The Water Myth",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://pudding.cool/2024/07/sleep-training/",
+    "title": "Is Sleep Training Harmful?",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://accumulationofthings.com/twine/beasts.html",
+    "title": "An Abundance Of Beasts",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://e18e.dev/?ck_subscriber_id=2185177551",
+    "title": "e18e",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://cdacamar.github.io/data%20structures/algorithms/benchmarking/text%20editors/c++/editor-data-structures/",
+    "title": "Text Editor Data Structures",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://nullprogram.com/blog/2017/09/07/",
+    "title": "Gap Buffers Are Not Optimized for Multiple Cursors",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://coredumped.dev/2023/08/09/text-showdown-gap-buffers-vs-ropes/",
+    "title": "Text showdown: Gap Buffers vs Ropes • Core Dumped",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://buttondown.email/thesephist/archive/when-i-was-your-age-i-had-to-draw-hands-to-point/",
+    "title": "When I was your age I had to draw hands to point at things • Buttondown",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://languagelog.ldc.upenn.edu/nll/?p=65182",
+    "title": "Language Log » Streets named after idioms",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://ryanbrewer.dev/posts/getting-started-category-theory/",
+    "title": "Getting Started with Category Theory - Ryan Brewer",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.bryanbraun.com/poor-mans-styleguide/",
+    "title": "Poor Man's Styleguide | A frontend styleguide for the pragmatic",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://stefan.vanburen.xyz/blog/style-guide/",
+    "title": "Style Guide",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.yelp.com/biz/ko-san-francisco-5?utm_source=ishare",
+    "title": "KO",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.wpr.org/news/ope-sorry-im-going-need-you-explain-what-word-means-and-where-it-came",
+    "title": "Ope! Sorry, I'm going to need you to explain what that word means and where it came from. - WPR",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://photonlines.substack.com/p/visual-data-structures-cheat-sheet",
+    "title": "(12) Visual Data Structures Cheat-Sheet - by Nick M",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://til.simonwillison.net/llms/openai-embeddings-related-content",
+    "title": "Storing and serving related documents with openai-to-sqlite and embeddings | Simon Willison’s TILs",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://theculturetrip.com/europe/ireland/articles/how-pubs-in-ireland-literally-saved-the-countrys-economy",
+    "title": "How Pubs In Ireland Literally Saved The Country's Economy",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://rmarcus.info/blog/2018/09/14/consistent-hashing-overflow.html",
+    "title": "Overflow in consistent hashing · Ryan Marcus",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://journal.stuffwithstuff.com/2012/12/19/the-impoliteness-of-overriding-methods/",
+    "title": "The Impoliteness of Overriding Methods – journal.stuffwithstuff.com",
     "tags": [],
     "source": "Obsidian"
   }
