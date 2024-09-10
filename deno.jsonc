@@ -1,9 +1,9 @@
 {
   "tasks": {
-    "export_goodlinks": "deno run --allow-read --allow-write goodlinks_export.ts",
-    "export_obsidian": "deno run --allow-read --allow-write obsidian_export.ts",
+    "import_goodlinks": "deno run --allow-read --allow-write import_goodlinks.ts",
+    "import_obsidian": "deno run --allow-read --allow-write import_obsidian.ts",
     "fetch": "deno run --allow-read --allow-run --allow-write --allow-net --allow-env fetch.ts",
-    "raindrop_export": "deno run --allow-read --allow-write export_raindrop.ts",
+    "export_raindrop": "deno run --allow-read --allow-write export_raindrop.ts",
     "serve": "deno run --allow-net --allow-read server.ts"
   }
 }
