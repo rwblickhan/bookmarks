@@ -3,18 +3,16 @@ import { CACHE_NAME, CACHE_PATH } from "./types.ts";
 import ProgressBar from "https://deno.land/x/progress@v1.3.8/mod.ts";
 
 async function checkForSnapshot(url: string): Promise<boolean> {
-  const checkResponse = await fetch(
-    `https://archive.org/wayback/available?url=${encodeURIComponent(url)}`
+  const response = await fetch(
+    `https://archive.org/wayback/available?url=${url}`
   );
-  const { archived_snapshots } = await checkResponse.json();
+  const { archived_snapshots } = await response.json();
   return !!archived_snapshots.closest;
 }
 
 async function submitForSnapshot(url: string) {
-  const submitResponse = await fetch(`https://web.archive.org/save/${url}`);
-  console.log(
-    submitResponse.ok ? `Submitted ${url}` : `Failed to submit ${url}`
-  );
+  const response = await fetch(`https://web.archive.org/save/${url}`);
+  console.log(response.ok ? `Submitted ${url}` : `Failed to submit ${url}`);
 }
 
 if (import.meta.main) {
