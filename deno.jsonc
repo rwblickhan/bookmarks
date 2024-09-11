@@ -4,6 +4,7 @@
     "import_obsidian": "deno run --allow-read --allow-write import_obsidian.ts",
     "fetch": "deno run --allow-read --allow-run --allow-write --allow-net --allow-env fetch.ts",
     "export_raindrop": "deno run --allow-read --allow-write export_raindrop.ts",
+    "export_wayback_machine": "deno run --allow-read --allow-write export_wayback_machine.ts",
     "serve": "deno run --allow-net --allow-read server.ts"
   }
 }
