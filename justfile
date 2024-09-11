@@ -5,3 +5,6 @@ update:
 
 wayback:
     deno task export_wayback_machine
+
+sync_notes:
+    fish -c 'copy_no_clobber ~/Developer/quotes/ ~/Developer/notes/'
