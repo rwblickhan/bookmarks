@@ -2,4 +2,4 @@ goodlinks.json
 **/*.db
 public/pagefind
 errors.json
-export.csv
+**/*.csv
