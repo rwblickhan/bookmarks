@@ -34,7 +34,7 @@ if (import.meta.main) {
     total: links.length,
   });
 
-  for (const link of links.slice(0, 10)) {
+  for (const link of links) {
     progress.render(completed);
     const result = await submit(link.url);
     if (result === "ok") {
