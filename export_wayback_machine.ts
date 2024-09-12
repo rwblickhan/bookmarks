@@ -10,13 +10,36 @@ interface IAError {
 }
 type IAResult = "ok" | IAError;
 
+function shuffle<T>(array: T[]) {
+  const copy = [...array];
+  let currentIndex = copy.length;
+
+  while (currentIndex != 0) {
+    // Pick an element from the first n-m
+    const randomIndex = Math.floor(Math.random() * currentIndex);
+    // Shrink m
+    currentIndex--;
+
+    // Copy the chosen element to the back; bring the n-mth element to the front
+    // to await shuffling
+    [copy[currentIndex], copy[randomIndex]] = [
+      copy[randomIndex],
+      copy[currentIndex],
+    ];
+  }
+  return copy;
+}
+
 async function submit(url: string): Promise<IAResult> {
-  const headers = {
-    "User-Agent":
-      "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36",
-  };
-  const response = await fetch(`https://web.archive.org/save/${url}`, {
-    headers,
+  const response = await fetch("https://web.archive.org/save/", {
+    method: "POST",
+    headers: {
+      "Content-Type": "application/json",
+    },
+    body: JSON.stringify({
+      url,
+      skip_first_archive: 1,
+    }),
   });
   return response.ok
     ? "ok"
@@ -35,7 +58,7 @@ if (import.meta.main) {
     total: links.length,
   });
 
-  for (const link of links) {
+  for (const link of shuffle(links)) {
     progress.render(completed);
     const result = await submit(link.url);
     if (result === "ok") {
@@ -45,6 +68,6 @@ if (import.meta.main) {
     }
     Deno.writeTextFileSync("ia_errors.json", JSON.stringify(errors, null, 2));
     completed += 1;
-    await sleep(0.5);
+    await sleep(5);
   }
 }
