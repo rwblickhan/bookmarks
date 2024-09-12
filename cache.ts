@@ -17,7 +17,8 @@ export class Cache implements Disposable {
     title TEXT,
     parsed_content TEXT,
     source TEXT CHECK(source IN ('GoodLinks', 'Obsidian')),
-    tags JSON 
+    tags JSON,
+    archived_at DATETIME
   )
 `);
   }
@@ -62,15 +63,45 @@ export class Cache implements Disposable {
     }
   }
 
+  queryUnarchived(limit?: number): ParsedLink[] | null {
+    const rows = this.db.query<[string, string, LinkSource, string, string]>(
+      `SELECT url, title, source, tags, parsed_content FROM ${this.cacheName} WHERE archived_at IS NULL` +
+        (limit ? ` LIMIT ${limit}` : ``)
+    );
+    if (rows.length > 0) {
+      return rows.map((row) => {
+        return {
+          url: row[0],
+          title: row[1],
+          source: row[2],
+          tags: JSON.parse(row[3]) as string[],
+          textContent: row[4],
+        };
+      });
+    } else {
+      return null;
+    }
+  }
+
   insert(parsedLink: ParsedLink) {
     this.db.query(
-      `INSERT INTO ${this.cacheName} (url, title, source, tags, parsed_content)  VALUES (:url, :title, :source, :tags, :parsed_content)`,
+      `INSERT INTO ${this.cacheName} (url, title, source, tags, parsed_content, archived_at) VALUES (:url, :title, :source, :tags, :parsed_content, NULL)`,
       {
         url: parsedLink.url,
         title: parsedLink.title ?? "",
         parsed_content: parsedLink.textContent ?? "",
         tags: JSON.stringify(parsedLink.tags) ?? "[]",
         source: parsedLink.source,
+      }
+    );
+  }
+
+  updateArchivedAt(url: string, archivedAt: Date) {
+    this.db.query(
+      `UPDATE ${this.cacheName} SET archived_at = :archived_at WHERE url = :url`,
+      {
+        archived_at: archivedAt,
+        url,
       }
     );
   }
