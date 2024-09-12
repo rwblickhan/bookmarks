@@ -1,6 +1,7 @@
 import ProgressBar from "https://deno.land/x/progress@v1.3.8/mod.ts";
 import { Cache } from "./cache.ts";
 import { CACHE_NAME, CACHE_PATH } from "./types.ts";
+import { sleep } from "https://deno.land/x/sleep@v1.3.0/mod.ts";
 
 interface IAError {
   url: string;
@@ -42,7 +43,8 @@ if (import.meta.main) {
     } else {
       errors.push(result);
     }
-    completed += 1;
     Deno.writeTextFileSync("ia_errors.json", JSON.stringify(errors, null, 2));
+    completed += 1;
+    await sleep(0.5);
   }
 }
