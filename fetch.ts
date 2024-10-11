@@ -75,7 +75,7 @@ if (import.meta.main) {
       } catch (error) {
         const end = performance.now();
         fetchErrors.push({
-          message: error.message,
+          message: (error as { message: string }).message,
           url: link.url,
           time_ms: end - start,
           source: link.source,
