@@ -15075,18 +15075,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/tursodatabase/libsql",
-    "title": "tursodatabase/libsql: libSQL is a fork of SQLite that is both Open Source, and Open Contributions.",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://cookiecrayon.itch.io/neon-knives",
-    "title": "*Neon Knives*",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://austin-ramsay.itch.io/beamsaber",
     "title": "*Beam Saber*",
     "tags": [],
@@ -15219,12 +15207,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://levelup.video/",
-    "title": "Level Up Tutorials - Learn modern web development",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://mobile.twitter.com/ctrlcreep/status/1633546788861779975",
     "title": "web archive",
     "tags": [],
@@ -15245,12 +15227,6 @@
   {
     "url": "https://jacobian.org/2023/dec/1/against-rfcs/",
     "title": "RFC processes are a poor fit for most organizations - Jacob Kaplan-Moss",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/mvdan/sh/blob/master/cmd/shfmt/shfmt.1.scd",
-    "title": "sh/shfmt.1.scd at master · mvdan/sh · GitHub",
     "tags": [],
     "source": "Obsidian"
   },
@@ -15425,12 +15401,6 @@
   {
     "url": "https://iosref.com/",
     "title": "iOS Ref",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://seirdy.one/posts/2020/11/23/website-best-practices/I",
-    "title": "Best practices for inclusive textual websites",
     "tags": [],
     "source": "Obsidian"
   },
@@ -15617,12 +15587,6 @@
   {
     "url": "https://www.smithsonianmag.com/science-nature/studying-whistled-languages-180978484/",
     "title": "More Than 80 Cultures Still Speak in Whistles",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/dolthub/doltgresql",
-    "title": "dolthub/doltgresql: DoltgreSQL - Version Controlled PostgreSQL",
     "tags": [],
     "source": "Obsidian"
   },
@@ -15891,12 +15855,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://modal.com/",
-    "title": "Modal: On-demand compute that just works",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://clagnut.com/blog/2424/",
     "title": "An end to typographic widows on the web | Clagnut by Richard Rutter",
     "tags": [],
@@ -15923,12 +15881,6 @@
   {
     "url": "https://danco.substack.com/p/nfts-and-cbgbs-hows-that-for-a-clickbait?token=eyJ1c2VyX2lkIjozMjcxNiwicG9zdF9pZCI6MzMwNDM5MDEsIl8iOiI1bzVGMCIsImlhdCI6MTYxNDU0NzczOSwiZXhwIjoxNjE0NTUxMzM5LCJpc3MiOiJwdWItODYyMyIsInN1YiI6InBvc3QtcmVhY3Rpb24ifQ.dlxTVHjPCJf5HOIYNS0eXC3-drot3uFwfb4eV9UmwPw",
     "title": "\"NFTs and CBGBs: how's that for a clickbait title\"",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.pointfree.co/blog/posts/99-modern-swiftui",
-    "title": "Modern SwiftUI",
     "tags": [],
     "source": "Obsidian"
   },
@@ -16107,12 +16059,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/astral-sh/uv",
-    "title": "astral-sh/uv: An extremely fast Python package installer and resolver, written in Rust.",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://sfstreetcars.co/",
     "title": "Where the Bay Area's Streetcars Used to Go: An Interactive Map",
     "tags": [],
@@ -16187,12 +16133,6 @@
   {
     "url": "https://jvns.ca/blog/2022/12/07/tips-for-analyzing-logs/",
     "title": "Tips for analyzing logs",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://typicode.github.io/husky/",
-    "title": "🐶 husky | 🐶 husky",
     "tags": [],
     "source": "Obsidian"
   },
@@ -16487,12 +16427,6 @@
   {
     "url": "https://travelbetweenthepages.com/2023/03/03/piracy-rules/",
     "title": "Piracy Rules | Travel Between The Pages",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://accesskit.dev/",
-    "title": "Home - AccessKit",
     "tags": [],
     "source": "Obsidian"
   },
@@ -16979,12 +16913,6 @@
   {
     "url": "https://weird-old-book-finder.glitch.me/?utm_campaign=Recomendo&utm_medium=email&utm_source=Revue%20newsletter",
     "title": "Weird Old Book Finder",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://astro.build/db/",
-    "title": "Astro DB",
     "tags": [],
     "source": "Obsidian"
   },
@@ -17571,20 +17499,8 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/casey/just",
-    "title": "casey/just: 🤖 Just a command runner",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "http://academic.brooklyn.cuny.edu/english/melani/cs6/funeral.html",
     "title": "I felt a funeral in my brain",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://replicache.dev/",
-    "title": "Replicache",
     "tags": [],
     "source": "Obsidian"
   },
@@ -17597,12 +17513,6 @@
   {
     "url": "https://mobile.twitter.com/ctrlcreep/status/1616298724011151360",
     "title": "neoltitude on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/MobSF/Mobile-Security-Framework-MobSF/",
-    "title": "MobSF/Mobile-Security-Framework-MobSF: Mobile Security Framework (MobSF) is an automated, all-in-one mobile application (Android/iOS/Windows) pen-testing, malware analysis and security assessment framework capable of performing static and dynamic analysis.",
     "tags": [],
     "source": "Obsidian"
   },
@@ -17841,12 +17751,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.npmjs.com/package/chalet",
-    "title": "chalet - npm",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://medium.com/@dannyyaroslavski/a-how-to-on-picking-pretty-colors-27c4909071a8",
     "title": "A How-To on Picking Pretty Colors",
     "tags": [],
@@ -17855,12 +17759,6 @@
   {
     "url": "https://garrit.xyz/posts/2023-04-12-instant-dark-theme?utm_source=rss",
     "title": "Instant dark theme",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/twostraws/Sourceful",
-    "title": "Sourceful",
     "tags": [],
     "source": "Obsidian"
   },
@@ -18111,12 +18009,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://rye-up.com/",
-    "title": "Rye",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.reddit.com/r/AskHistorians/comments/9db1dw/the_figure_of_the_knighterrant_is_a_common/e5ii0xp/?context=3",
     "title": "r/AskHistorians - Comment by u/J-Force on ”The figure of the Knight-errant is a common feature of Medieval Literature and many real Knights certainly looked up to this image, but how far is this archetype based in reality? Were there ever really examples of wandering Knights who set out to prove their chivalry or is this purely idealistic?”",
     "tags": [],
@@ -18345,12 +18237,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://gist.github.com/atierian/610538f39a4844881e20b673f4c8e8dc?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_113",
-    "title": "Mobile Systems Design",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.wopc.co.uk/",
     "title": "Welcome to the World of Playing Cards — The World of Playing Cards",
     "tags": [],
@@ -18435,12 +18321,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://htmlwithsuperpowers.netlify.app/",
-    "title": "HTML with Superpowers | HTML with Superpowers",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://github.com/freedmand/textra",
     "title": "freedmand/textra: A command-line application to convert images, PDFs, and audio files to text using Apple's APIs",
     "tags": [],
@@ -18479,12 +18359,6 @@
   {
     "url": "https://madhadron.com/programming/seven_ur_languages.html",
     "title": "madhadron - The seven programming ur-languages",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.wtfautolayout.com/?example=true",
-    "title": "WTF Auto Layout?",
     "tags": [],
     "source": "Obsidian"
   },
@@ -18533,12 +18407,6 @@
   {
     "url": "https://webhooks.fyi/",
     "title": "Webhooks.fyi",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://blog.steveasleep.com/three-uikit-protips",
-    "title": "Three UIKit Protips",
     "tags": [],
     "source": "Obsidian"
   },
@@ -18639,12 +18507,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.systeminit.com/",
-    "title": "System Initiative",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://fedi.simonwillison.net/@simon/110775465910504719",
     "title": "Simon Willison: \"If you're a Homebrew user this…\" - Mastodon",
     "tags": [],
@@ -18683,12 +18545,6 @@
   {
     "url": "https://davidepstein.substack.com/p/my-personal-attention-span-takeaways?publication_id=1024339&post_id=141861510&isFreemail=true&r=p8s&triedRedirect=true",
     "title": "(23) My Personal \"Attention Span\" Takeaways - by David Epstein",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://beej.us/guide/bgnet0/",
-    "title": "Beej's Guide to Networking Concepts",
     "tags": [],
     "source": "Obsidian"
   },
@@ -18749,12 +18605,6 @@
   {
     "url": "https://bam.kalzumeus.com/archive/mortgages-are-a-manufactured-product/",
     "title": "Mortgages are a manufactured product",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://caddyserver.com/",
-    "title": "Caddy 2 - The Ultimate Server with Automatic HTTPS",
     "tags": [],
     "source": "Obsidian"
   },
@@ -19389,12 +19239,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/tailscale/golink",
-    "title": "tailscale/golink: A private shortlink service for tailnets",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://macmenubar.com/",
     "title": "MacMenuBar.com | A curated directory of 700+ Mac menu bar apps",
     "tags": [],
@@ -19521,12 +19365,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://autometrics.dev/?ref=console.dev",
-    "title": "Autometrics - Developer-first Observability Framework",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://twitter.com/pangmeli/status/1409172891627929604",
     "title": "fangmeli",
     "tags": [],
@@ -19605,24 +19443,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://twitter.com/ChristianSelig/status/1455222872125935619",
-    "title": "you can just do this with `SwiftMarkdown` now",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://developer.apple.com/documentation/foundation/attributedstring",
-    "title": "the default `AttributedString` in Swift UI also supports Markdown directly!",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/chockenberry/MarkdownAttributedString",
-    "title": "chockenberry/MarkdownAttributedString: Adding Markdown support to NSAttributedString.",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://austinhenley.com/blog/challengingalgorithms.html",
     "title": "Challenging algorithms and data structures every programmer should try",
     "tags": [],
@@ -19641,12 +19461,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/docker-slim/docker-slim",
-    "title": "docker-slim/docker-slim: DockerSlim (docker-slim): Don't change anything in your Docker container image and minify it by up to 30x (and for compiled languages even more) making it secure too! (free and open source)",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://simonwillison.net/2024/Jan/2/escalating-streaks/",
     "title": "Tom Scott, and the formidable power of escalating streaks",
     "tags": [],
@@ -19655,18 +19469,6 @@
   {
     "url": "https://georgesaunders.substack.com/p/influences?token=eyJ1c2VyX2lkIjozMjcxNiwicG9zdF9pZCI6NDUzNDE5NjUsIl8iOiIzQ1BObSIsImlhdCI6MTY0ODQzNTQ2MywiZXhwIjoxNjQ4NDM5MDYzLCJpc3MiOiJwdWItNTY3NDIwIiwic3ViIjoicG9zdC1yZWFjdGlvbiJ9.PkgPj8Rqr8Yu1YEZI4BPS0kpNedYOtuBpQdNBYsjF4g&s=r",
     "title": "Influences",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://adamobeng.com/wddbfs-mount-a-sqlite-database-as-a-filesystem/",
-    "title": "wddbfs – Mount a sqlite database as a filesystem",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://simonwillison.net/2024/Feb/18/wddbfs/",
-    "title": "Simon Willison's notes",
     "tags": [],
     "source": "Obsidian"
   },
@@ -20403,12 +20205,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://levelup.video/tutorials/mastering-figma/introduction",
-    "title": "Level Up Tutorials - Learn modern web development",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://github.com/hackergrrl/common-readme",
     "title": "hackergrrl/common-readme: :star2: « a common readme for node »",
     "tags": [],
@@ -20441,12 +20237,6 @@
   {
     "url": "http://microjs.com/#",
     "title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://factorcode.org",
-    "title": "Factor",
     "tags": [],
     "source": "Obsidian"
   },
@@ -20553,12 +20343,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://swiftpackageindex.com/omaralbeik/Drops?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B568",
-    "title": "Drops – Swift Package Index",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://archive.org/details/universeaspictur00warr/page/76/mode/2up",
     "title": "The universe as pictured in Milton's Paradise lost; an illustrated study for personal and class use : Warren, William Fairfield, 1833-1929 : Free Download, Borrow, and Streaming : Internet Archive",
     "tags": [],
@@ -20597,12 +20381,6 @@
   {
     "url": "https://twitter.com/WeirdMedieval/status/1538834599337463808",
     "title": "weird medieval guys on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://thin.dev/?ref=console.dev",
-    "title": "Thin Backend: Instead of manually writing REST API endpoints or GraphQL resolvers you can use a Thin Backend server to automatically get a fully featured API backend.",
     "tags": [],
     "source": "Obsidian"
   },
@@ -20781,18 +20559,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://blog.kulman.sk/automatically-merge-xcode-project-conflicts/",
-    "title": "Automatically merging conflicts in Xcode project files",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/Lightricks/Kintsugi",
-    "title": "Kintsugi",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://boyter.org/posts/bloom-filter/",
     "title": "Bloom Filters - Much, much more than a space efficient hashmap! | Ben E. C. Boyter",
     "tags": [],
@@ -20859,12 +20625,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/pointfreeco/swift-composable-architecture",
-    "title": "The Composable Architecture",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.investopedia.com/terms/s/stock.asp",
     "title": "stocks",
     "tags": [],
@@ -20921,12 +20681,6 @@
   {
     "url": "https://mobile.twitter.com/ctrlcreep/status/1530660863568494593",
     "title": "neoltitude on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://svelte-native.technology/",
-    "title": "Svelte Native • The Svelte Mobile Development Experience",
     "tags": [],
     "source": "Obsidian"
   },
@@ -21101,18 +20855,6 @@
   {
     "url": "https://tomstafford.substack.com/p/epistemic-agents",
     "title": "Reasonable People #26",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/hadolint/hadolint",
-    "title": "GitHub - hadolint/hadolint: Dockerfile linter, validate inline bash, written in Haskell",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://swiftwithmajid.com/2023/10/10/sensory-feedback-in-swiftui/",
-    "title": "Sensory feedback in SwiftUI | Swift with Majid",
     "tags": [],
     "source": "Obsidian"
   },
@@ -21327,12 +21069,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://socket.dev/",
-    "title": "Socket - Secure your JavaScript supply chain",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.homerow.app/",
     "title": "Homerow | Spotlight for the macOS user interface",
     "tags": [],
@@ -21489,12 +21225,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.jsoftware.com/papers/tot.htm",
-    "title": "Notation as a Tool of Thought",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://kottke.org/22/02/jonny-greenwood-pretended-to-play-the-keyboard-when-he-first-joined-radiohead",
     "title": "Jonny Greenwood Pretended to Play the Keyboard When He First Joined Radiohead",
     "tags": [],
@@ -21579,12 +21309,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/weeeBox/mobile-system-design",
-    "title": "weeeBox/mobile-system-design: A simple framework for mobile system design interviews",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://neddonovan.substack.com/p/the-only-prince-left-in-india",
     "title": "The Only Prince Left in India",
     "tags": [],
@@ -21639,18 +21363,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://expo.dev/",
-    "title": "Expo",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.nytimes.com/wirecutter/reviews/best-soundbar/",
-    "title": "Wirecutter's budget pick",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.nytimes.com/wirecutter/reviews/best-bidet-toilet-seat-washlet/",
     "title": "Bidet",
     "tags": [],
@@ -21659,12 +21371,6 @@
   {
     "url": "https://www.nytimes.com/wirecutter/reviews/the-best-home-kettle/#also-great-cuisinart-gk-1-digital-gooseneck-kettle",
     "title": "Wirecutter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://defiantsloth.com/2023/12/28/083436.html",
-    "title": "Re:Zero leather wallet",
     "tags": [],
     "source": "Obsidian"
   },
@@ -21719,12 +21425,6 @@
   {
     "url": "https://going-medieval.com/2019/08/02/i-assure-you-medieval-people-bathed/",
     "title": "I assure you, medieval people bathed.",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/nginxinc/kic-reference-architectures",
-    "title": "nginxinc/kic-reference-architectures: Ingress Controller Reference Architectures",
     "tags": [],
     "source": "Obsidian"
   },
@@ -22269,12 +21969,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/CGamesPlay/infra",
-    "title": "CGamesPlay/infra: selfhosted infra scripts",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.bbc.com/future/article/20220322-how-sleep-training-affects-babies",
     "title": "What really happens when babies are left to cry it out?",
     "tags": [],
@@ -22461,12 +22155,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/aquasecurity/tfsec",
-    "title": "tfsec",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.preposterousuniverse.com/podcast/2021/10/18/169-c-thi-nguyen-on-games-art-values-and-agency/",
     "title": "Sean Carroll’s Mindscape Podcast – Sean Carroll",
     "tags": [],
@@ -22551,12 +22239,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://engineering.atspotify.com/2021/11/16/introducing-xcremotecache-the-ios-remote-caching-tool-that-cut-our-clean-build-times-by-70/",
-    "title": "Introducing XCRemoteCache: The iOS Remote Caching Tool that Cut Our Clean Build Times by 70%",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "http://ratfactor.com/minslides/",
     "title": "minslides - Easiest Presentation Slides Ever? - ratfactor",
     "tags": [],
@@ -22571,12 +22253,6 @@
   {
     "url": "https://apple.stackexchange.com/questions/313431/iphone-6-usb-disconnects-from-macbook-pro-constantly-over-and-over",
     "title": "Iphone 6+ USB disconnects from Macbook Pro constantly over and over - Ask Different",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://render.com/",
-    "title": "Cloud Application Hosting for Developers | Render",
     "tags": [],
     "source": "Obsidian"
   },
@@ -22869,12 +22545,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://flowbite.com/tools/tailwind-cheat-sheet/",
-    "title": "Tailwind CSS Cheat Sheet",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://twitter.com/patriciamou_/status/1690014725449375747?utm_source=substack&utm_medium=email",
     "title": "Patricia Mou on Twitter: \"Richard Feynman's love letter to his dead wife (1946) showing me relationship goals: “You, dead. Are so much better than anyone alive. I’ve met many nice girls &amp; don’t want to remain alone, but in 3 meetings they all seem ashes to me. You only are left to me. You are real.” https://t.co/cod8zbe4Y5\" / X",
     "tags": [],
@@ -23079,12 +22749,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.sherpachai.com/spicy-sherpa-chai",
-    "title": "Spicy Sherpa Chai",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://mobile.twitter.com/ctrlcreep/status/1171968296134086656?s=21",
     "title": "neoltitude on Twitter",
     "tags": [],
@@ -23145,18 +22809,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/simonbs/Runestone",
-    "title": "Runestone Editor",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://swiftpackageindex.com/simonbs/Runestone?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B558",
-    "title": "Runestone – Swift Package Index",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://mobile.twitter.com/incunabula/status/1332477878563377152",
     "title": "Incunabula on Twitter",
     "tags": [],
@@ -23213,12 +22865,6 @@
   {
     "url": "https://twitter.com/WeirdMedieval/status/1608802946615250949",
     "title": "weird medieval guys on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://supabase.com",
-    "title": "Supabase",
     "tags": [],
     "source": "Obsidian"
   },
@@ -23577,12 +23223,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/automerge/automerge-repo",
-    "title": "automerge/automerge-repo",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://twitter.com/atomicthumbs/status/1636992823856885762",
     "title": "atomicthumbs",
     "tags": [],
@@ -23627,12 +23267,6 @@
   {
     "url": "https://mobile.twitter.com/WeirdMedieval/status/1551171718298963969",
     "title": "weird medieval guys on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.swiftjectivec.com/using-the-tabulardata-framework-to-dump-json-or-csv-data-in-swift/",
-    "title": "Using TabularData to Dump Model Data | Swiftjective-C",
     "tags": [],
     "source": "Obsidian"
   },
@@ -23789,12 +23423,6 @@
   {
     "url": "https://science.ku.dk/english/press/news/2021/for-some-greenlanders-eating-sugar-is-healthy/",
     "title": "For some Greenlanders, eating sugar is healthy",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://marta.sh/",
-    "title": "Marta",
     "tags": [],
     "source": "Obsidian"
   },
@@ -24315,18 +23943,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://mela.recipes/",
-    "title": "Mela",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/krzysztofzablocki/Swift-Macros?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B614",
-    "title": "krzysztofzablocki/Swift-Macros: A curated list of awesome Swift Macros",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://amzn.to/2YFjNek",
     "title": "The Summer Book",
     "tags": [],
@@ -24555,12 +24171,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://mobile.twitter.com/ronyfadel/status/1462431756561403906",
-    "title": "Rony Fadel on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://pypi.org/project/redlines/",
     "title": "redlines · PyPI",
     "tags": [],
@@ -24779,12 +24389,6 @@
   {
     "url": "https://github.com/dgllghr/stanchion",
     "title": "dgllghr/stanchion: A SQLite extension that brings column-oriented tables to SQLite",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://elysiajs.com/",
-    "title": "Elysia - Ergonomic Framework for Humans | ElysiaJS",
     "tags": [],
     "source": "Obsidian"
   },
@@ -25137,12 +24741,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.dbcore.org/",
-    "title": "DBCore - Rapidly prototype applications powered by your database.",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://mobile.twitter.com/arbesman/status/1531285505958092807",
     "title": "Samuel Arbesman on Twitter",
     "tags": [],
@@ -25269,12 +24867,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/porsager/postgres?ck_subscriber_id=2185177551",
-    "title": "porsager/postgres: Postgres.js - The Fastest full featured PostgreSQL client for Node.js, Deno, Bun and CloudFlare",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://evrone.com/douglas-crockford-interview",
     "title": "JSON Creator Douglas Crockford Interview by Evrone",
     "tags": [],
@@ -25365,12 +24957,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/honojs/honox?ck_subscriber_id=2185177551",
-    "title": "honojs/honox: HonoX",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://github.com/psb1558/Elstob-font",
     "title": "psb1558/Elstob-font: A variable font for medievalists",
     "tags": [],
@@ -25427,12 +25013,6 @@
   {
     "url": "https://downpour.games/",
     "title": "Downpour",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://tuist.io/",
-    "title": "Xcode on steroids | Tuist",
     "tags": [],
     "source": "Obsidian"
   },
@@ -25539,12 +25119,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://capacitorjs.com/",
-    "title": "Capacitor: Cross-platform native runtime for web apps",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://github.com/williamtroup/Syntax.js?ck_subscriber_id=2185177551",
     "title": "williamtroup/Syntax.js: A lightweight, and easy-to-use, JavaScript library for code syntax highlighting!",
     "tags": [],
@@ -25587,12 +25161,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "http://chriswu.com/posts/xcode/vimtotd/?utm_source=swiftlee&utm_medium=swiftlee_weekly&utm_campaign=issue_95",
-    "title": "The Vim \"tip of the day\" for Xcode Collection",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://mobile.twitter.com/ctrlcreep/status/1535769613006475264",
     "title": "neoltitude on Twitter",
     "tags": [],
@@ -25601,18 +25169,6 @@
   {
     "url": "https://en.wikipedia.org/wiki/Ys",
     "title": "\"Ys\"",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.hydra.so/",
-    "title": "Hydra",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.standardwebhooks.com/",
-    "title": "Standard Webhooks",
     "tags": [],
     "source": "Obsidian"
   },
@@ -25673,12 +25229,6 @@
   {
     "url": "https://www.atlasobscura.com/articles/what-is-kiviaq",
     "title": "Inside Greenland's Misunderstood Winter Delicacy",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://difftastic.wilfred.me.uk/",
-    "title": "Difftastic, a structural diff",
     "tags": [],
     "source": "Obsidian"
   },
@@ -25797,12 +25347,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://sf.eater.com/2023/10/3/23902056/fikscue-restaurant-barbecue-indonesian-alameda?ueid=c7167216f83a4f9241be67d46c86c056",
-    "title": "Fikscue",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.chefellecowan.com/sododonuts",
     "title": "SoDo Donuts",
     "tags": [],
@@ -25877,12 +25421,6 @@
   {
     "url": "https://www.willett.io/posts/precepts/",
     "title": "How to Build Software like an SRE",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/jsx-eslint/eslint-plugin-jsx-a11y",
-    "title": "jsx-eslint/eslint-plugin-jsx-a11y: Static AST checker for a11y rules on JSX elements.",
     "tags": [],
     "source": "Obsidian"
   },
@@ -26079,12 +25617,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.sudowrite.com/",
-    "title": "Sudowrite",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://two-wrongs.com/software-design-tree-and-program-families",
     "title": "Common Mistakes in Modularisation",
     "tags": [],
@@ -26147,12 +25679,6 @@
   {
     "url": "https://betterstack.com/community/guides/monitoring/health-checks/",
     "title": "Getting Started with Server Health Checks | Better Stack Community",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.trace.zip/",
-    "title": "trace.",
     "tags": [],
     "source": "Obsidian"
   },
@@ -26463,12 +25989,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://taylor.town/pseudoprose",
-    "title": "Pseudoprose",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://en.wikipedia.org/wiki/Rangkiang",
     "title": "\"Rangkiang\"",
     "tags": [],
@@ -26513,12 +26033,6 @@
   {
     "url": "https://adamj.eu/tech/2024/01/03/postgresql-full-text-search-websearch/",
     "title": "PostgreSQL: Full text search with the “websearch” syntax - Adam Johnson",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/dolthub/dolt",
-    "title": "dolthub/dolt: Dolt – It's Git for Data",
     "tags": [],
     "source": "Obsidian"
   },
@@ -27111,12 +26625,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://code.visualstudio.com/blogs/2021/10/20/vscode-dev",
-    "title": "vscode.dev Visual Studio Code for the Web",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.sfchronicle.com/food/restaurants/article/chicago-tavern-pizza-18598487.php?sid=638c256380383cf2790df08a&ss=P&st_rid=78c4e0e7-55f1-45ff-918e-16df92e506dd",
     "title": "Chicago tavern-style pizza could be Bay Area's next big thing",
     "tags": [],
@@ -27131,12 +26639,6 @@
   {
     "url": "https://pest.rs/",
     "title": "pest. The Elegant Parser",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://wd.gt/quick_start.html",
-    "title": "Quick Start - widget",
     "tags": [],
     "source": "Obsidian"
   },
@@ -27423,12 +26925,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://mobile.twitter.com/MengTo/status/1479165179371958272?utm_campaign=iOS%2BDev%2BWeekly&utm_medium=email&utm_source=iOS%2BDev%2BWeekly%2BIssue%2B540",
-    "title": "Meng To on Twitter",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://insidethemagic.net/2020/02/walt-disneys-everlasting-effect-on-ski-resorts-tm1/",
     "title": "Walt Disney's Everlasting Effect on North American Ski Resorts - Inside the Magic",
     "tags": [],
@@ -27561,18 +27057,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.endatabas.com/",
-    "title": "endatabas | SQL Document Database with Full History",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://simonwillison.net/2024/Mar/1/endatabas/",
-    "title": "Simon Willison's notes",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "http://domedieval.org",
     "title": "Dumbarton Oaks Medieval Library",
     "tags": [],
@@ -27633,12 +27117,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://nitro.unjs.io/",
-    "title": "Nitro - Create web servers that run anywhere.",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://mobile.twitter.com/ctrlcreep/status/1524719547839913985",
     "title": "neoltitude on Twitter",
     "tags": [],
@@ -27671,12 +27149,6 @@
   {
     "url": "https://en.amarahasa.com/resources/#listening",
     "title": "Resources – Amarahāsa",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/thepassle/swtl",
-    "title": "thepassle/swtl: A Service Worker Templating Language (swtl) for component-like templating in service workers. Streams templates to the browser as they're being parsed, and handles rendering iterables/Responses in templates by default.",
     "tags": [],
     "source": "Obsidian"
   },
@@ -28167,12 +27639,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/red-data-tools/YouPlot",
-    "title": "GitHub - red-data-tools/YouPlot: A command line tool that draw plots on the terminal.",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://scholars-stage.org/generational-churn-and-the-cpc/",
     "title": "Generational Churn and the CPC",
     "tags": [],
@@ -28307,12 +27773,6 @@
   {
     "url": "https://www.swyx.io/startups-going-bad",
     "title": "Signs that a Startup is Going Bad",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/sailscastshq/boring-stack",
-    "title": "sailscastshq/boring-stack: The Reliable Full-Stack JavaScript Stack: Ship products with battle-tested technologies. Say NO to chasing JavaScript trends.",
     "tags": [],
     "source": "Obsidian"
   },
@@ -29021,12 +28481,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://acoup.blog/2024/03/29/fireside-friday-march-29-2024-on-roman-values/",
-    "title": "auctoritas force field",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.futilitycloset.com/2024/04/10/music-space/",
     "title": "Music Space - Futility Closet",
     "tags": [],
@@ -29267,12 +28721,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.zerosheets.com/",
-    "title": "Zero Sheets",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://en.m.wikipedia.org/wiki/Bicycle_Day_(psychedelic_holiday)",
     "title": "Bicycle Day (psychedelic holiday) - Wikipedia",
     "tags": [],
@@ -29383,12 +28831,6 @@
   {
     "url": "https://www.stanfordmagnets.com/cow-magnets.html#196%20-%2013654797",
     "title": "Cow Magnets | Stanford Magnets",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://pocketbase.io/",
-    "title": "PocketBase - Open Source backend in 1 file",
     "tags": [],
     "source": "Obsidian"
   },
@@ -31241,12 +30683,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://github.com/echasnovski/mini.nvim",
-    "title": "echasnovski/mini.nvim: Library of 35+ independent Lua modules improving overall Neovim (version 0.7 and higher) experience with minimal effort",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://nymag.com/strategist/article/best-electrolyte-powders.html",
     "title": "The Best Electrolyte Powders 2024 | The Strategist",
     "tags": [],
@@ -31297,18 +30733,6 @@
   {
     "url": "https://antonz.org/sqlite-secure-delete/",
     "title": "Modern SQLite: Secure delete",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.boox.com",
-    "title": "Boox Palma",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://statusnook.com/",
-    "title": "Statusnook",
     "tags": [],
     "source": "Obsidian"
   },
@@ -31465,12 +30889,6 @@
   {
     "url": "https://v5.chriskrycho.com/journal/progressively-enhanced-talks/",
     "title": "Your Talk Slides Should Be Progressive Enhancement — Sympolymathesy, by Chris Krycho",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://github.com/meilisearch/heed",
-    "title": "meilisearch/heed: A fully typed LMDB wrapper with minimum overhead 🐦",
     "tags": [],
     "source": "Obsidian"
   },
@@ -32784,12 +32202,6 @@
   {
     "url": "https://www.memrise.com/",
     "title": "Learn a language. Memrise is authentic, useful & personalised.",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://trpc.io/",
-    "title": "tRPC - Move Fast and Break Nothing. End-to-end typesafe APIs made easy. | tRPC",
     "tags": [],
     "source": "Obsidian"
   },
@@ -34852,12 +34264,6 @@
     "source": "Obsidian"
   },
   {
-    "url": "https://www.yelp.com/biz/ko-san-francisco-5?utm_source=ishare",
-    "title": "KO",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
     "url": "https://www.wpr.org/news/ope-sorry-im-going-need-you-explain-what-word-means-and-where-it-came",
     "title": "Ope! Sorry, I'm going to need you to explain what that word means and where it came from. - WPR",
     "tags": [],
@@ -35578,18 +34984,6 @@
   {
     "url": "https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html",
     "title": "The Fundamental Law Of Software Dependencies",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.amazon.com/OXO-Good-Grips-Can-Opener/dp/B00004OCJW?tag=seriouseats-onsite-prod-20&ascsubtag=5121833%7Cn1858dfc859f24bb9afe4d4bea4db1b1a01%7CB00004OCJW%7C1724290347522%7C%7C",
-    "title": "OXO Good Grips Soft-Handled",
-    "tags": [],
-    "source": "Obsidian"
-  },
-  {
-    "url": "https://www.amazon.com/OXO-Good-Grips-Can-Opener/dp/B00004OCJW?tag=seriouseats-onsite-prod-20&ascsubtag=5121833%7Cn1858dfc859f24bb9afe4d4bea4db1b1a01%7CB00004OCJW%7C1724290347522%7C%7C",
-    "title": "OXO Good Grips Soft-Handled",
     "tags": [],
     "source": "Obsidian"
   },
@@ -37933,6 +37327,701 @@
   {
     "url": "https://www.ebparks.org/parks/reinhardt-redwood",
     "title": "Dr. Aurelia Reinhardt Redwood Regional Park",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=qz9NTMtXV70",
+    "title": "THE MEANING OF LIFE (restored) by DON HERTZFELDT",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Eodd2IBDLbU",
+    "title": "WISDOM TEETH (restored) by DON HERTZFELDT",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=-Aiwq7SAmwg",
+    "title": "Michael Levin & Josh Bongard On Xenobots",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=g3fOVDTg9pU",
+    "title": "Recomposed by Max Richter: Vivaldi's Four Seasons - Tito Muñoz/Daniel Hope/Ensemble LPR",
+    "tags": [
+      "music"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=8QeA9te8YVk",
+    "title": "Caroline Polachek - True Love Waits [Radiohead Cover]",
+    "tags": [
+      "music"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=U3VMv4Kd8b8",
+    "title": "When you make house music for rock fans",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://anhvn.com/posts/2024/spooky-homepage-process/",
+    "title": "Spooky homepage process",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://punchdrink.com/articles/milk-wash-technique-spirits-cocktails/",
+    "title": "The Magic of Milk-Washed Spirits",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://ssoready.com/blog/engineering/truths-programmers-timezones/",
+    "title": "Australia/Lord_Howe is the weirdest timezone",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "http://schwitzsplinters.blogspot.com/2024/10/the-ethics-of-harmonizing-with-dao.html",
+    "title": "The Ethics of Harmonizing with the Dao",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://thewhippet.org/181-much-better-than-horses/",
+    "title": "The Whippet #181: Much better than horses",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://travelbetweenthepages.com/2024/10/28/magical-not-lucky-charms/",
+    "title": "Magical (not lucky) Charms",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://entropicthoughts.com/determining-tag-quality",
+    "title": "Tagnostic: Determine Tag Quality",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=EA4POAT_8OA",
+    "title": "Silent Love - BLIB (Louie Zong, Worthikids, BDG)",
+    "tags": [
+      "music"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://acoup.blog/2024/11/01/referenda-ad-senatum-november-1-2024-ancient-weapons-lost-works-and-roman-spooky-stuff/",
+    "title": "Referenda ad Senatum: November 1, 2024: Ancient Weapons, Lost Works and Roman Spooky-Stuff!",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://jmduke.com/posts/post/talk-to-customers/",
+    "title": "Talking to customers",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://jmduke.com/posts/post/two-weeks-of-parenthood/",
+    "title": "Two weeks of parenthood",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://justine.lol/lex/",
+    "title": "Weird Lexical Syntax",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://jmduke.com/posts/post/pkm-gtd-2024/",
+    "title": "My approach to GTD and PKM",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.futilitycloset.com/2024/11/03/moonlighting-4/",
+    "title": "Moonlighting - Futility Closet",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://astrofella.wordpress.com/2024/10/25/candida-george-bernard-shaw/",
+    "title": "Candida by George Bernard Shaw",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://animationobsessive.substack.com/p/the-look-of-over-the-garden-wall?publication_id=274055&post_id=151054220&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "(25) The Look of 'Over the Garden Wall'",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=KkPqr2lx7t8",
+    "title": "Over the Garden Wall | 10th Anniversary Stop Motion Short | Cartoon Network",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://buttondown.com/hillelwayne/archive/a-list-of-ternary-operators/",
+    "title": "A list of ternary operators",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/",
+    "title": "Thinking About Recipe Formats More Than Anyone Should",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.woman-of-letters.com/p/the-most-important-news-youll-hear",
+    "title": "The most important news you'll hear about today",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://tompepinsky.com/2024/11/06/living-through-the-next-american-political-order-institutions-will-comply-and-you-will-be-made-complicit/",
+    "title": "Living through the Next American Political Order: Institutions Will Comply, and You Will Be Made Complicit",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.popehat.com/p/and-yet-it-moves?_bhlid=f2ab8cf798ea17f2b5e7a04c9db0c32f4be6c5c7",
+    "title": "And Yet It Moves",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://capitalgains.thediff.co/p/principal-agent-problem",
+    "title": "The Principal-Agent Problem",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://balioc.tumblr.com/post/766459346925256704",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.atvbt.com/a-defense-of-fusion/",
+    "title": "Progress Studies Conference - I'll Defend Fusion",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://dynomight.substack.com/p/bad?publication_id=327510&post_id=151327227&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "(21) Attitudes one can take towards people who have behaved badly",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.woman-of-letters.com/p/the-last-samurai-is-a-book-people?publication_id=1829526&post_id=151180447&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "The Last Samurai is a book people will still be reading in 200 years",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://balioc.tumblr.com/post/766519710984650752/buddhism-like-christianity-has-of-course-been-a",
+    "title": "The Baliocene Apocrypha",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://nathangoldwag.wordpress.com/2024/11/07/they-cannot-conquer-for-ever/",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://radleybalko.substack.com/p/trumps-deportation-army",
+    "title": "Trump's deportation army - by Radley Balko - The Watch",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.liberalcurrents.com/a-practical-program-for-resisting-a-trump-second-term/",
+    "title": "A Practical Program for Resisting a Trump Second Term",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://acoup.blog/2024/11/08/collections-the-afterlife-of-the-roman-republic/",
+    "title": "Collections: The Afterlife of the Roman Republic",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://mattlakeman.org/2024/11/08/notes-on-guyana/",
+    "title": "Notes on Guyana",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://docs.google.com/document/d/1kh4fkEg-7LV4kEMlt_Td-04yrRvaF8Byl5sxTc1uIPI/edit?tab=t.0#heading=h.l82t2ylakjup",
+    "title": "Developmental Editing / Your First Edit Letter",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://wagingnonviolence.org/2024/11/10-things-to-do-if-trump-wins/",
+    "title": "10 ways to be prepared and grounded now that Trump has won",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.personalcanon.com/p/everything-i-read-in-october-2024?publication_id=2160572&post_id=150808450&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "everything i read in october 2024 - personal canon",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.woman-of-letters.com/p/why-i-am-publishing-a-novella-on?publication_id=1829526&post_id=150593949&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "Why I am publishing a novella on Substack",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://craigmod.com/ridgeline/197/",
+    "title": "Why Kissas Intrigue (Places for People)",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://catherinelacey.substack.com/p/after-the-storm?publication_id=1285251&post_id=151483557&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "(21) After the storm - by Catherine Lacey",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://daringfireball.net/2024/11/how_it_went",
+    "title": "How It Went",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://astrofella.wordpress.com/2024/11/11/ubu-roi-alfred-jarry/",
+    "title": "Ubu Roi by Alfred Jarry (1896)",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://isaak.net/sleepless/",
+    "title": "Ozempic For Sleep",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://levgrossman.substack.com/p/on-mental-health-and-writing?publication_id=2007270&post_id=151095217&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "(21) On Mental Health and Writing - by Lev Grossman",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://m.youtube.com/watch?v=LsrMrAAZ5KQ",
+    "title": "The Complete Implosion of Riverdale",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Et5B-zfAIIo",
+    "title": "Burial's Untrue: The making of a masterpiece",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.atvbt.com/plots-resolve/",
+    "title": "I Rarely Saw The Plots Resolve",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=hUyj3d-BSh8",
+    "title": "I Spent 24 Hours in the Woods With Talking AI Chatbots | WSJ",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.popehat.com/p/refuge-in-kakistocracy",
+    "title": "Refuge In Kakistocracy",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=82sMwdFq2z4",
+    "title": "(9) ＬＯＣＡＬ５８ＴＶ - Night Walk",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://ethanmarcotte.com/wrote/books-no-longer-apart/",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://dynomight.substack.com/p/chess?publication_id=327510&post_id=151658279&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "(18) Something weird is happening with LLMs and chess",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://talks.natetucker.com/p/common-goals",
+    "title": "Common Goals - by Nate Tucker - @natetucker",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://wattenberger.com/thoughts/llms-as-a-tool-for-thought?ck_subscriber_id=2185177551",
+    "title": "Amelia Wattenberger",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=pKr6Npp4kvQ",
+    "title": "How Copperfield Vanished the Statue of Liberty",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://blog.ayjay.org/excerpt-from-my-sent-folder-unions/",
+    "title": "unions – The Homebound Symphony",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://acoup.blog/2024/11/15/fireside-friday-november-15-2024/",
+    "title": "Fireside Friday, November 15, 2024",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "http://schwitzsplinters.blogspot.com/2024/11/three-models-of-experience-of-dreaming.html?m=1",
+    "title": "Three Models of the Experience of Dreaming: Phenomenal Hallucination, Imagination, and Doxastic Hallucination",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://v5.chriskrycho.com/journal/note-on-social-media-topics/",
+    "title": "A Note on Social Media Topics — Sympolymathesy, by Chris Krycho",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.historytoday.com/archive/review/after-flying-saucers-came-think-new-worlds-and-how-think-impossibly-review",
+    "title": "‘After the Flying Saucers Came’, ‘Think to New Worlds’ and ‘How to Think Impossibly’ review",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://deannadikeman.com/leaving-and-waving",
+    "title": "Deanna Dikeman - Leaving and Waving",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://balioc.tumblr.com/post/767407132840738816",
+    "title": "A Simple Model",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "http://glineq.blogspot.com/2024/11/the-ideology-of-donald-j-trump.html?m=1",
+    "title": "The ideology of Donald J. Trump",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://thewhippet.org/182-least-charitable-reader/",
+    "title": "The Whippet #182: The Least Charitable Reader",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://modernagejournal.com/the-nicene-myth/243824/",
+    "title": "The Nicene Myth",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.woman-of-letters.com/p/hinduism-might-be-true",
+    "title": "Hinduism might be true - by Naomi Kanakia",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=V1zpE20K4Wk",
+    "title": "DK RAP - Grant Kirkhope feat. Substantial (Rare Treats: Donkey Kong 64 Revisited)",
+    "tags": [
+      "music"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=LCpF7z4JszE",
+    "title": "(11) Our Culture is Eating Itself",
+    "tags": [
+      "video"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://doomsdaymachines.net/p/the-meme-ification-of-the-demon-core",
+    "title": "The meme-ification of the \"Demon Core\"",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://dynomight.substack.com/p/more-chess?publication_id=327510&post_id=151979216&isFreemail=true&r=p8s&triedRedirect=true",
+    "title": "(18) OK, I can partly explain the LLM chess weirdness now",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://acoup.blog/2024/11/22/fireside-friday-november-22-2024-roman-naming-conventions/",
+    "title": "Fireside Friday, November 22, 2024 (Roman Naming Conventions)",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://slate.com/culture/2024/10/me-movie-don-hertzfeldt-arcade-fire-taylor-swift.html",
+    "title": "He Might Be the Century’s Most Successful Indie Filmmaker, but He Thinks We Should All Love Taylor Swift",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.experimental-history.com/p/underrated-ways-to-change-the-world",
+    "title": "Underrated ways to change the world - by Adam Mastroianni",
+    "tags": [],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://www.youtube.com/watch?v=Vj05Zi435i0",
+    "title": "Cui Jian: Tiny Desk Meets globalFEST 2023",
+    "tags": [
+      "music"
+    ],
+    "source": "GoodLinks"
+  },
+  {
+    "url": "https://challahscript.com/what_i_wish_someone_told_me_about_postgres",
+    "title": "What I Wish Someone Told Me About Postgres | ChallahScript",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://gwern.net/matt-levine",
+    "title": "Why So Few Matt Levines? · Gwern.net",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.futilitycloset.com/2024/11/05/a-second-life/",
+    "title": "A Second Life - Futility Closet",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://qwantz.com/index.php?comic=4258",
+    "title": "Dinosaur Comics - November 1st, 2024 - awesome fun times!",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://isaak.net/mandarinmethods/",
+    "title": "Methods of Mandarin",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.npmjs.com/package/eslint-plugin-jsx-a11y",
+    "title": "eslint-plugin-jsx-a11y - npm",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://mergiraf.org/conflicts.html",
+    "title": "a wide range of Git merge conflicts",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://mergiraf.org/languages.html",
+    "title": "its understanding of your language",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://mergiraf.org/",
+    "title": "Introduction - Mergiraf",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.joeeliastsambiras.com/",
+    "title": "Joe Elias Tsambiras",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://weiyen.net/articles/useful-macos-cmd-line-utilities",
+    "title": "Useful built-in macOS command-line utilities",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.animefeminist.com/porygon-was-innocent-an-epileptic-perspective-on-pokemons-electric-soldier-porygon/",
+    "title": "Porygon Was Innocent: An epileptic perspective on Pokémon's “Electric Soldier Porygon” - Anime Feminist",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://bsky.app/profile/inogart.bsky.social/post/3kzpmqwfmo52w",
+    "title": "(1) Irene Πoguerón: \"I have some oddities in my shop for those stormy nights of contemplation www.inprnt.com/gallery/inog...\" — Bluesky",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/fregante/GhostText",
+    "title": "fregante/GhostText: 👻 Use your text editor to write in your browser. Everything you type in the editor will be instantly updated in the browser (and vice versa).",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/ahmetsait/toolgit",
+    "title": "ahmetsait/toolgit: Git Productivity Toolkit",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://weiyen.net/articles/useful-macos-cmd-line-utilities",
+    "title": "Useful built-in macOS command-line utilities",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://bsky.app/profile/aimeecozza.com/post/3l6qrbl5xs323",
+    "title": "(1) Aimee Cozza Illustration: \"Bluesky's open, quote one art to promote yourself #Art #DarkArt\" — Bluesky",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://jakelazaroff.com/words/my-modern-css-reset/",
+    "title": "My Modern CSS Reset | jakelazaroff.com",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://react-scan.million.dev/?ck_subscriber_id=2185177551",
+    "title": "React Scan",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.instagram.com/alushecoffeebar/",
+    "title": "Alushe Coffee Bar",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.sfchronicle.com/food/restaurants/article/mashaallah-halal-pakistani-food-19829767.php",
+    "title": "Mashaallah Halal Pakistani Food Restaurant",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.sfchronicle.com/food/restaurants/article/gigis-sf-wine-bar-19787353.php?sid=638c256380383cf2790df08a&ss=P&st_rid=78c4e0e7-55f1-45ff-918e-16df92e506dd",
+    "title": "GiGi's",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://sf.eater.com/2024/11/15/24297256/tiya-sf-indian-restaurant-head-bartender-izler-thomas-neighborhood-cocktails?ueid=c7167216f83a4f9241be67d46c86c056",
+    "title": "Tiya",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.sfchronicle.com/food/restaurants/article/simmer-steamer-sf-rice-lunch-19916394.php",
+    "title": "Simmer & Steamer",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.teance.com/",
+    "title": "Teance Fine Teas",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443",
+    "title": "What has case distinction but is neither uppercase nor lowercase? - The Old New Thing",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.ironcalc.com/#home",
+    "title": "IronCalc - Open-Source Spreadsheet Engine",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://www.pcgamer.com/steam-deck-emulation-installation/",
+    "title": "The Steam Deck is already the emulation system of my dreams | PC Gamer",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/",
+    "title": "Five Unusual Raku Features • Buttondown",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://github.com/Vincent-Carrier/CocoaVim",
+    "title": "Vincent-Carrier/CocoaVim: A BetterTouchTool preset to enable Vim keybindings in any Cocoa-based macOS app",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://eli.thegreenplace.net/2024/bloch-sphere/",
+    "title": "Bloch sphere - Eli Bendersky's website",
+    "tags": [],
+    "source": "Obsidian"
+  },
+  {
+    "url": "https://engagededucation.substack.com/p/campbells-law-something-every-educator",
+    "title": "Campbell's Law: Something Every Educator Should Know",
     "tags": [],
     "source": "Obsidian"
   }
